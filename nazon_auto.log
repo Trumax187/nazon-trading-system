@@ -1,0 +1,2627 @@
+2026-06-20 14:25:37  --- NAZON auto run start ---
+2026-06-20 14:26:51  SCAN XAUUSDm: logged not_approved none (candle 2026-06-19 12:00:00, spread 280).
+2026-06-20 14:26:52  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-20 14:26:52  --- NAZON auto run end ---
+
+2026-06-20 16:05:43  --- NAZON auto run start ---
+2026-06-20 16:05:57  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-20 16:05:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-20 16:05:57  --- NAZON auto run end ---
+
+2026-06-20 16:26:35  --- NAZON auto run start ---
+2026-06-20 16:26:37  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-20 16:26:37  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-20 16:26:37  --- NAZON auto run end ---
+
+2026-06-20 18:06:57  --- NAZON auto run start ---
+2026-06-20 18:07:26  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-20 18:07:26  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-20 18:07:26  --- NAZON auto run end ---
+
+2026-06-20 22:06:48  --- NAZON auto run start ---
+2026-06-20 22:07:18  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-20 22:07:18  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-20 22:07:18  --- NAZON auto run end ---
+
+2026-06-21 10:23:40  --- NAZON auto run start ---
+2026-06-21 10:24:29  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-06-21 10:24:30  RESOLVE skipped — could not connect to MT5.
+2026-06-21 10:24:30  --- NAZON auto run end ---
+
+2026-06-21 14:06:47  --- NAZON auto run start ---
+2026-06-21 14:06:58  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-21 14:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-21 14:06:58  --- NAZON auto run end ---
+
+2026-06-21 18:06:47  --- NAZON auto run start ---
+2026-06-21 18:06:57  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-21 18:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-21 18:06:57  --- NAZON auto run end ---
+
+2026-06-21 22:06:47  --- NAZON auto run start ---
+2026-06-21 22:06:58  SCAN XAUUSDm: candle 2026-06-19 12:00:00 already logged — skipped.
+2026-06-21 22:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-21 22:06:58  --- NAZON auto run end ---
+
+2026-06-22 10:21:32  --- NAZON auto run start ---
+2026-06-22 10:24:04  SCAN XAUUSDm: logged not_approved none (candle 2026-06-22 04:00:00, spread 260).
+2026-06-22 10:24:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-22 10:24:06  --- NAZON auto run end ---
+
+2026-06-23 10:06:46  --- NAZON auto run start ---
+2026-06-23 10:09:05  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-06-23 10:11:17  RESOLVE skipped — could not connect to MT5.
+2026-06-23 10:11:17  --- NAZON auto run end ---
+
+2026-06-24 21:28:30  --- NAZON auto run start ---
+2026-06-24 21:31:18  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-06-24 21:33:31  RESOLVE skipped — could not connect to MT5.
+2026-06-24 21:33:31  --- NAZON auto run end ---
+
+2026-06-24 22:06:47  --- NAZON auto run start ---
+2026-06-24 22:09:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-06-24 22:11:27  RESOLVE skipped — could not connect to MT5.
+2026-06-24 22:11:27  --- NAZON auto run end ---
+
+2026-06-29 13:11:45  --- NAZON auto run start ---
+2026-06-29 13:27:49  SCAN XAUUSDm: logged approved sell (candle 2026-06-29 04:00:00, spread 240).
+2026-06-29 13:27:59  RESOLVE skipped — could not connect to MT5.
+2026-06-29 13:28:00  --- NAZON auto run end ---
+
+2026-06-29 14:06:46  --- NAZON auto run start ---
+2026-06-29 14:06:48  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-06-29 14:06:48  RESOLVE skipped — could not connect to MT5.
+2026-06-29 14:06:48  --- NAZON auto run end ---
+
+2026-06-29 18:06:47  --- NAZON auto run start ---
+2026-06-29 18:06:50  SCAN XAUUSDm: logged approved sell (candle 2026-06-29 12:00:00, spread 240).
+2026-06-29 18:06:50  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-29 18:06:50  --- NAZON auto run end ---
+
+2026-06-29 22:06:50  --- NAZON auto run start ---
+2026-06-29 22:07:04  SCAN XAUUSDm: logged approved sell (candle 2026-06-29 16:00:00, spread 240).
+2026-06-29 22:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-29 22:07:04  --- NAZON auto run end ---
+
+2026-06-30 02:08:36  --- NAZON auto run start ---
+2026-06-30 02:15:33  SCAN XAUUSDm: logged approved sell (candle 2026-06-29 20:00:00, spread 240).
+2026-06-30 02:15:34  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-30 02:15:34  --- NAZON auto run end ---
+
+2026-06-30 06:06:52  --- NAZON auto run start ---
+2026-06-30 06:07:55  SCAN XAUUSDm: logged approved sell (candle 2026-06-30 00:00:00, spread 240).
+2026-06-30 06:07:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-30 06:07:58  --- NAZON auto run end ---
+
+2026-06-30 14:06:52  --- NAZON auto run start ---
+2026-06-30 14:07:11  SCAN XAUUSDm: logged approved sell (candle 2026-06-30 08:00:00, spread 240).
+2026-06-30 14:07:12  RESOLVE: scored 1 newly-closed signal(s).
+2026-06-30 14:07:12  --- NAZON auto run end ---
+
+2026-06-30 18:06:45  --- NAZON auto run start ---
+2026-06-30 18:06:46  SCAN XAUUSDm: candle 2026-06-30 12:00:00 already logged — skipped.
+2026-06-30 18:06:46  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-30 18:06:46  --- NAZON auto run end ---
+
+2026-06-30 22:06:47  --- NAZON auto run start ---
+2026-06-30 22:06:55  SCAN XAUUSDm: logged approved sell (candle 2026-06-30 16:00:00, spread 240).
+2026-06-30 22:06:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-06-30 22:06:55  --- NAZON auto run end ---
+
+2026-07-01 14:06:47  --- NAZON auto run start ---
+2026-07-01 14:06:57  SCAN XAUUSDm: logged approved sell (candle 2026-07-01 08:00:00, spread 240).
+2026-07-01 14:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-01 14:06:57  --- NAZON auto run end ---
+
+2026-07-01 22:06:45  --- NAZON auto run start ---
+2026-07-01 22:06:46  SCAN XAUUSDm: logged not_approved none (candle 2026-07-01 16:00:00, spread 240).
+2026-07-01 22:06:46  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-01 22:06:46  --- NAZON auto run end ---
+
+2026-07-02 10:06:46  --- NAZON auto run start ---
+2026-07-02 10:06:50  SCAN XAUUSDm: logged not_approved none (candle 2026-07-02 04:00:00, spread 240).
+2026-07-02 10:06:50  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-02 10:06:50  --- NAZON auto run end ---
+
+2026-07-02 14:06:45  --- NAZON auto run start ---
+2026-07-02 14:06:47  SCAN XAUUSDm: logged not_approved none (candle 2026-07-02 08:00:00, spread 240).
+2026-07-02 14:06:47  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-02 14:06:47  --- NAZON auto run end ---
+
+2026-07-02 18:06:47  --- NAZON auto run start ---
+2026-07-02 18:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-02 12:00:00, spread 240).
+2026-07-02 18:07:00  RESOLVE: scored 1 newly-closed signal(s).
+2026-07-02 18:07:00  --- NAZON auto run end ---
+
+2026-07-02 22:06:47  --- NAZON auto run start ---
+2026-07-02 22:07:44  SCAN XAUUSDm: candle 2026-07-02 12:00:00 already logged — skipped.
+2026-07-02 22:07:44  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-02 22:07:44  --- NAZON auto run end ---
+
+2026-07-03 02:06:45  --- NAZON auto run start ---
+2026-07-03 02:06:47  SCAN XAUUSDm: logged not_approved none (candle 2026-07-02 20:00:00, spread 240).
+2026-07-03 02:06:47  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-03 02:06:47  --- NAZON auto run end ---
+
+2026-07-03 08:55:15  --- NAZON auto run start ---
+2026-07-03 18:06:46  --- NAZON auto run start ---
+2026-07-03 18:06:58  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-03 18:06:58  RESOLVE skipped — could not connect to MT5.
+2026-07-03 18:06:58  --- NAZON auto run end ---
+
+2026-07-03 22:06:49  --- NAZON auto run start ---
+2026-07-03 22:07:21  SCAN XAUUSDm: logged not_approved none (candle 2026-07-03 12:00:00, spread 240).
+2026-07-03 22:07:22  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-03 22:07:22  --- NAZON auto run end ---
+
+2026-07-05 14:06:46  --- NAZON auto run start ---
+2026-07-05 14:07:19  SCAN XAUUSDm: candle 2026-07-03 12:00:00 already logged — skipped.
+2026-07-05 14:07:20  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-05 14:07:20  --- NAZON auto run end ---
+
+2026-07-05 20:08:26  --- NAZON auto run start ---
+2026-07-05 20:11:45  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-05 20:11:45  RESOLVE skipped — could not connect to MT5.
+2026-07-05 20:11:45  --- NAZON auto run end ---
+
+2026-07-05 22:06:46  --- NAZON auto run start ---
+2026-07-05 22:07:00  SCAN XAUUSDm: candle 2026-07-03 12:00:00 already logged — skipped.
+2026-07-05 22:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-05 22:07:00  --- NAZON auto run end ---
+
+2026-07-06 09:10:04  --- NAZON auto run start ---
+2026-07-06 09:24:59  SCAN XAUUSDm: candle 2026-07-03 12:00:00 already logged — skipped.
+2026-07-06 09:24:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-06 09:24:59  --- NAZON auto run end ---
+
+2026-07-06 10:06:47  --- NAZON auto run start ---
+2026-07-06 10:09:06  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-06 10:11:17  RESOLVE skipped — could not connect to MT5.
+2026-07-06 10:11:17  --- NAZON auto run end ---
+
+2026-07-06 14:06:45  --- NAZON auto run start ---
+2026-07-06 14:09:07  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-06 14:11:21  RESOLVE skipped — could not connect to MT5.
+2026-07-06 14:11:21  --- NAZON auto run end ---
+
+2026-07-06 18:06:47  --- NAZON auto run start ---
+2026-07-06 18:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-06 12:00:00, spread 240).
+2026-07-06 18:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-06 18:07:05  --- NAZON auto run end ---
+
+2026-07-06 22:06:47  --- NAZON auto run start ---
+2026-07-06 22:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-06 16:00:00, spread 240).
+2026-07-06 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-06 22:07:01  --- NAZON auto run end ---
+
+2026-07-07 02:06:47  --- NAZON auto run start ---
+2026-07-07 02:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-07-06 20:00:00, spread 240).
+2026-07-07 02:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-07 02:06:59  --- NAZON auto run end ---
+
+2026-07-07 11:16:05  --- NAZON auto run start ---
+2026-07-07 11:17:40  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-07 11:17:41  RESOLVE skipped — could not connect to MT5.
+2026-07-07 11:17:41  --- NAZON auto run end ---
+
+2026-07-07 14:07:02  --- NAZON auto run start ---
+2026-07-07 14:08:14  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-07 14:08:14  RESOLVE skipped — could not connect to MT5.
+2026-07-07 14:08:14  --- NAZON auto run end ---
+
+2026-07-07 18:06:48  --- NAZON auto run start ---
+2026-07-07 18:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-07 12:00:00, spread 240).
+2026-07-07 18:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-07 18:07:00  --- NAZON auto run end ---
+
+2026-07-07 22:06:47  --- NAZON auto run start ---
+2026-07-07 22:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-07 16:00:00, spread 240).
+2026-07-07 22:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-07 22:07:00  --- NAZON auto run end ---
+
+2026-07-08 02:06:47  --- NAZON auto run start ---
+2026-07-08 02:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-07-07 20:00:00, spread 240).
+2026-07-08 02:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-08 02:07:00  --- NAZON auto run end ---
+
+2026-07-08 06:06:48  --- NAZON auto run start ---
+2026-07-08 06:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-07-08 00:00:00, spread 240).
+2026-07-08 06:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-08 06:06:59  --- NAZON auto run end ---
+
+2026-07-08 16:58:18  --- NAZON auto run start ---
+2026-07-08 16:59:25  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-08 16:59:25  RESOLVE skipped — could not connect to MT5.
+2026-07-08 16:59:25  --- NAZON auto run end ---
+
+2026-07-08 21:21:06  --- NAZON auto run start ---
+2026-07-08 21:22:03  SCAN XAUUSDm: logged not_approved none (candle 2026-07-08 12:00:00, spread 240).
+2026-07-08 21:22:08  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-08 21:22:08  --- NAZON auto run end ---
+
+2026-07-08 22:06:50  --- NAZON auto run start ---
+2026-07-08 22:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-07-08 16:00:00, spread 240).
+2026-07-08 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-08 22:07:01  --- NAZON auto run end ---
+
+2026-07-09 10:25:35  --- NAZON auto run start ---
+2026-07-09 10:26:08  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-09 10:26:08  RESOLVE skipped — could not connect to MT5.
+2026-07-09 10:26:08  --- NAZON auto run end ---
+
+2026-07-09 14:07:13  --- NAZON auto run start ---
+2026-07-09 14:13:55  SCAN XAUUSDm: logged not_approved none (candle 2026-07-09 08:00:00, spread 240).
+2026-07-09 14:13:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-09 14:13:56  --- NAZON auto run end ---
+
+2026-07-09 21:22:35  --- NAZON auto run start ---
+2026-07-09 21:30:33  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-09 21:30:33  RESOLVE skipped — could not connect to MT5.
+2026-07-09 21:30:33  --- NAZON auto run end ---
+
+2026-07-09 22:06:45  --- NAZON auto run start ---
+2026-07-09 22:06:51  SCAN XAUUSDm: logged not_approved none (candle 2026-07-09 16:00:00, spread 240).
+2026-07-09 22:06:51  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-09 22:06:51  --- NAZON auto run end ---
+
+2026-07-10 10:06:47  --- NAZON auto run start ---
+2026-07-10 14:06:46  --- NAZON auto run start ---
+2026-07-10 14:06:57  SCAN XAUUSDm: logged not_approved none (candle 2026-07-10 08:00:00, spread 240).
+2026-07-10 14:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-10 14:06:57  --- NAZON auto run end ---
+
+2026-07-10 18:06:46  --- NAZON auto run start ---
+2026-07-10 18:06:56  SCAN XAUUSDm: logged not_approved none (candle 2026-07-10 12:00:00, spread 240).
+2026-07-10 18:06:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-10 18:06:56  --- NAZON auto run end ---
+
+2026-07-10 22:06:45  --- NAZON auto run start ---
+2026-07-10 22:06:55  SCAN XAUUSDm: logged not_approved none (candle 2026-07-10 16:00:00, spread 240).
+2026-07-10 22:06:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-10 22:06:55  --- NAZON auto run end ---
+
+2026-07-11 02:06:46  --- NAZON auto run start ---
+2026-07-11 02:07:01  SCAN XAUUSDm: candle 2026-07-10 16:00:00 already logged — skipped.
+2026-07-11 02:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-11 02:07:02  --- NAZON auto run end ---
+
+2026-07-11 10:45:29  --- NAZON auto run start ---
+2026-07-11 10:46:04  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-11 10:46:04  RESOLVE skipped — could not connect to MT5.
+2026-07-11 10:46:04  --- NAZON auto run end ---
+
+2026-07-11 14:06:46  --- NAZON auto run start ---
+2026-07-11 14:07:20  SCAN XAUUSDm: candle 2026-07-10 16:00:00 already logged — skipped.
+2026-07-11 14:07:20  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-11 14:07:20  --- NAZON auto run end ---
+
+2026-07-11 18:06:49  --- NAZON auto run start ---
+2026-07-11 18:07:23  SCAN XAUUSDm: candle 2026-07-10 16:00:00 already logged — skipped.
+2026-07-11 18:07:23  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-11 18:07:23  --- NAZON auto run end ---
+
+2026-07-12 18:06:48  --- NAZON auto run start ---
+2026-07-12 18:07:02  SCAN XAUUSDm: candle 2026-07-10 16:00:00 already logged — skipped.
+2026-07-12 18:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-12 18:07:03  --- NAZON auto run end ---
+
+2026-07-12 22:06:49  --- NAZON auto run start ---
+2026-07-12 22:07:28  SCAN XAUUSDm: candle 2026-07-10 16:00:00 already logged — skipped.
+2026-07-12 22:07:28  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-12 22:07:28  --- NAZON auto run end ---
+
+2026-07-13 09:42:17  --- NAZON auto run start ---
+2026-07-13 09:44:18  SCAN XAUUSDm: logged not_approved none (candle 2026-07-13 00:00:00, spread 240).
+2026-07-13 09:44:18  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-13 09:44:18  --- NAZON auto run end ---
+
+2026-07-13 10:06:46  --- NAZON auto run start ---
+2026-07-13 10:08:57  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-13 10:11:09  RESOLVE skipped — could not connect to MT5.
+2026-07-13 10:11:09  --- NAZON auto run end ---
+
+2026-07-13 14:06:46  --- NAZON auto run start ---
+2026-07-13 14:09:05  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-13 14:11:17  RESOLVE skipped — could not connect to MT5.
+2026-07-13 14:11:17  --- NAZON auto run end ---
+
+2026-07-13 18:06:47  --- NAZON auto run start ---
+2026-07-13 18:09:12  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-13 18:11:27  RESOLVE skipped — could not connect to MT5.
+2026-07-13 18:11:27  --- NAZON auto run end ---
+
+2026-07-13 22:06:46  --- NAZON auto run start ---
+2026-07-13 22:06:57  SCAN XAUUSDm: logged not_approved none (candle 2026-07-13 16:00:00, spread 240).
+2026-07-13 22:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-13 22:06:57  --- NAZON auto run end ---
+
+2026-07-14 16:19:16  --- NAZON auto run start ---
+2026-07-14 16:22:09  SCAN XAUUSDm: logged approved sell (candle 2026-07-14 08:00:00, spread 240).
+2026-07-14 16:22:10  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-14 16:22:10  --- NAZON auto run end ---
+
+2026-07-14 18:06:50  --- NAZON auto run start ---
+2026-07-14 18:07:06  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-14 18:07:06  RESOLVE skipped — could not connect to MT5.
+2026-07-14 18:07:06  --- NAZON auto run end ---
+
+2026-07-14 22:06:49  --- NAZON auto run start ---
+2026-07-14 22:07:08  SCAN XAUUSDm: logged not_approved none (candle 2026-07-14 16:00:00, spread 240).
+2026-07-14 22:07:09  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-14 22:07:09  --- NAZON auto run end ---
+
+2026-07-15 02:06:48  --- NAZON auto run start ---
+2026-07-15 02:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-07-14 20:00:00, spread 240).
+2026-07-15 02:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-15 02:07:02  --- NAZON auto run end ---
+
+2026-07-15 23:51:59  --- NAZON auto run start ---
+2026-07-15 23:56:30  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-15 23:56:30  RESOLVE skipped — could not connect to MT5.
+2026-07-15 23:56:30  --- NAZON auto run end ---
+
+2026-07-16 02:51:19  --- NAZON auto run start ---
+2026-07-16 02:57:59  SCAN XAUUSDm: logged not_approved none (candle 2026-07-15 20:00:00, spread 240).
+2026-07-16 02:58:03  RESOLVE: scored 1 newly-closed signal(s).
+2026-07-16 02:58:03  --- NAZON auto run end ---
+
+2026-07-16 22:09:01  --- NAZON auto run start ---
+2026-07-16 22:15:24  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-16 22:17:08  RESOLVE skipped — could not connect to MT5.
+2026-07-16 22:17:08  --- NAZON auto run end ---
+
+2026-07-17 02:06:46  --- NAZON auto run start ---
+2026-07-17 02:06:50  SCAN XAUUSDm: logged not_approved none (candle 2026-07-16 20:00:00, spread 240).
+2026-07-17 02:06:50  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-17 02:06:50  --- NAZON auto run end ---
+
+2026-07-17 07:07:29  --- NAZON auto run start ---
+2026-07-17 07:07:57  SCAN XAUUSDm: logged not_approved none (candle 2026-07-17 00:00:00, spread 240).
+2026-07-17 07:07:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-17 07:07:57  --- NAZON auto run end ---
+
+2026-07-17 10:06:58  --- NAZON auto run start ---
+2026-07-17 10:07:09  SCAN XAUUSDm: logged not_approved none (candle 2026-07-17 04:00:00, spread 240).
+2026-07-17 10:07:09  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-17 10:07:09  --- NAZON auto run end ---
+
+2026-07-17 17:06:36  --- NAZON auto run start ---
+2026-07-17 17:10:11  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-17 17:12:22  RESOLVE skipped — could not connect to MT5.
+2026-07-17 17:12:23  --- NAZON auto run end ---
+
+2026-07-17 18:06:48  --- NAZON auto run start ---
+2026-07-17 18:07:03  SCAN XAUUSDm: logged not_approved none (candle 2026-07-17 12:00:00, spread 240).
+2026-07-17 18:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-17 18:07:03  --- NAZON auto run end ---
+
+2026-07-17 22:06:49  --- NAZON auto run start ---
+2026-07-17 22:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-07-17 16:00:00, spread 240).
+2026-07-17 22:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-17 22:07:04  --- NAZON auto run end ---
+
+2026-07-18 18:06:49  --- NAZON auto run start ---
+2026-07-18 18:07:17  SCAN XAUUSDm: candle 2026-07-17 16:00:00 already logged — skipped.
+2026-07-18 18:07:18  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-18 18:07:18  --- NAZON auto run end ---
+
+2026-07-19 14:06:49  --- NAZON auto run start ---
+2026-07-19 14:07:18  SCAN XAUUSDm: candle 2026-07-17 16:00:00 already logged — skipped.
+2026-07-19 14:07:18  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-19 14:07:18  --- NAZON auto run end ---
+
+2026-07-19 18:06:49  --- NAZON auto run start ---
+2026-07-19 18:09:11  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-19 18:11:22  RESOLVE skipped — could not connect to MT5.
+2026-07-19 18:11:22  --- NAZON auto run end ---
+
+2026-07-19 22:06:46  --- NAZON auto run start ---
+2026-07-19 22:06:54  SCAN XAUUSDm: candle 2026-07-17 16:00:00 already logged — skipped.
+2026-07-19 22:06:54  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-19 22:06:54  --- NAZON auto run end ---
+
+2026-07-20 02:06:48  --- NAZON auto run start ---
+2026-07-20 02:07:12  SCAN XAUUSDm: logged not_approved none (candle 2026-07-17 20:00:00, spread 240).
+2026-07-20 02:07:12  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-20 02:07:12  --- NAZON auto run end ---
+
+2026-07-20 10:06:47  --- NAZON auto run start ---
+2026-07-20 10:06:55  SCAN XAUUSDm: logged not_approved none (candle 2026-07-20 04:00:00, spread 240).
+2026-07-20 10:06:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-20 10:06:55  --- NAZON auto run end ---
+
+2026-07-20 14:06:49  --- NAZON auto run start ---
+2026-07-20 14:07:13  SCAN XAUUSDm: logged not_approved none (candle 2026-07-20 08:00:00, spread 240).
+2026-07-20 14:07:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-20 14:07:13  --- NAZON auto run end ---
+
+2026-07-20 18:06:48  --- NAZON auto run start ---
+2026-07-20 18:07:43  SCAN XAUUSDm: logged not_approved none (candle 2026-07-20 12:00:00, spread 240).
+2026-07-20 18:08:16  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-20 18:08:16  --- NAZON auto run end ---
+
+2026-07-20 22:06:46  --- NAZON auto run start ---
+2026-07-20 22:10:03  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-20 22:12:17  RESOLVE skipped — could not connect to MT5.
+2026-07-20 22:12:17  --- NAZON auto run end ---
+
+2026-07-21 10:38:12  --- NAZON auto run start ---
+2026-07-21 10:47:08  SCAN XAUUSDm: logged not_approved none (candle 2026-07-21 04:00:00, spread 240).
+2026-07-21 10:47:10  RESOLVE skipped — could not connect to MT5.
+2026-07-21 10:47:10  --- NAZON auto run end ---
+
+2026-07-21 14:06:48  --- NAZON auto run start ---
+2026-07-21 14:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-07-21 08:00:00, spread 240).
+2026-07-21 14:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-21 14:07:01  --- NAZON auto run end ---
+
+2026-07-21 18:06:46  --- NAZON auto run start ---
+2026-07-21 18:06:58  SCAN XAUUSDm: logged not_approved none (candle 2026-07-21 12:00:00, spread 240).
+2026-07-21 18:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-21 18:06:58  --- NAZON auto run end ---
+
+2026-07-21 22:06:47  --- NAZON auto run start ---
+2026-07-21 22:06:58  SCAN XAUUSDm: logged not_approved none (candle 2026-07-21 16:00:00, spread 240).
+2026-07-21 22:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-21 22:06:58  --- NAZON auto run end ---
+
+2026-07-22 10:06:48  --- NAZON auto run start ---
+2026-07-22 10:07:15  SCAN XAUUSDm: logged not_approved none (candle 2026-07-22 04:00:00, spread 240).
+2026-07-22 10:07:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-22 10:07:15  --- NAZON auto run end ---
+
+2026-07-22 14:06:49  --- NAZON auto run start ---
+2026-07-22 14:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-07-22 08:00:00, spread 240).
+2026-07-22 14:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-22 14:06:59  --- NAZON auto run end ---
+
+2026-07-22 18:06:47  --- NAZON auto run start ---
+2026-07-22 18:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-07-22 12:00:00, spread 240).
+2026-07-22 18:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-22 18:07:03  --- NAZON auto run end ---
+
+2026-07-22 22:06:48  --- NAZON auto run start ---
+2026-07-22 22:06:57  SCAN XAUUSDm: logged not_approved none (candle 2026-07-22 16:00:00, spread 240).
+2026-07-22 22:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-22 22:06:57  --- NAZON auto run end ---
+
+2026-07-23 10:06:48  --- NAZON auto run start ---
+2026-07-23 10:07:14  SCAN XAUUSDm: logged not_approved none (candle 2026-07-23 04:00:00, spread 240).
+2026-07-23 10:07:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-23 10:07:14  --- NAZON auto run end ---
+
+2026-07-23 14:06:48  --- NAZON auto run start ---
+2026-07-23 14:06:58  SCAN XAUUSDm: logged not_approved none (candle 2026-07-23 08:00:00, spread 240).
+2026-07-23 14:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-23 14:06:59  --- NAZON auto run end ---
+
+2026-07-23 18:06:48  --- NAZON auto run start ---
+2026-07-23 18:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-23 12:00:00, spread 240).
+2026-07-23 18:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-23 18:07:00  --- NAZON auto run end ---
+
+2026-07-24 14:06:48  --- NAZON auto run start ---
+2026-07-24 14:07:26  SCAN XAUUSDm: logged not_approved none (candle 2026-07-24 08:00:00, spread 240).
+2026-07-24 14:07:26  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-24 14:07:26  --- NAZON auto run end ---
+
+2026-07-24 18:06:47  --- NAZON auto run start ---
+2026-07-24 18:06:58  SCAN XAUUSDm: logged not_approved none (candle 2026-07-24 12:00:00, spread 240).
+2026-07-24 18:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-24 18:06:58  --- NAZON auto run end ---
+
+2026-07-24 22:06:48  --- NAZON auto run start ---
+2026-07-24 22:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-07-24 16:00:00, spread 240).
+2026-07-24 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-24 22:07:01  --- NAZON auto run end ---
+
+2026-07-25 14:06:48  --- NAZON auto run start ---
+2026-07-25 14:07:13  SCAN XAUUSDm: candle 2026-07-24 16:00:00 already logged — skipped.
+2026-07-25 14:07:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-25 14:07:14  --- NAZON auto run end ---
+
+2026-07-25 18:06:45  --- NAZON auto run start ---
+2026-07-25 18:09:12  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-25 18:11:26  RESOLVE skipped — could not connect to MT5.
+2026-07-25 18:11:26  --- NAZON auto run end ---
+
+2026-07-25 22:06:48  --- NAZON auto run start ---
+2026-07-25 22:07:22  SCAN XAUUSDm: candle 2026-07-24 16:00:00 already logged — skipped.
+2026-07-25 22:07:22  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-25 22:07:22  --- NAZON auto run end ---
+
+2026-07-26 10:06:48  --- NAZON auto run start ---
+2026-07-26 10:07:29  SCAN XAUUSDm: candle 2026-07-24 16:00:00 already logged — skipped.
+2026-07-26 10:07:34  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-26 10:07:34  --- NAZON auto run end ---
+
+2026-07-26 14:06:47  --- NAZON auto run start ---
+2026-07-26 14:07:21  SCAN XAUUSDm: candle 2026-07-24 16:00:00 already logged — skipped.
+2026-07-26 14:07:21  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-26 14:07:21  --- NAZON auto run end ---
+
+2026-07-26 18:06:46  --- NAZON auto run start ---
+2026-07-26 18:06:57  SCAN XAUUSDm: candle 2026-07-24 16:00:00 already logged — skipped.
+2026-07-26 18:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-26 18:06:57  --- NAZON auto run end ---
+
+2026-07-26 22:06:46  --- NAZON auto run start ---
+2026-07-26 22:06:57  SCAN XAUUSDm: candle 2026-07-24 16:00:00 already logged — skipped.
+2026-07-26 22:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-26 22:06:57  --- NAZON auto run end ---
+
+2026-07-27 02:06:45  --- NAZON auto run start ---
+2026-07-27 02:06:55  SCAN XAUUSDm: logged not_approved none (candle 2026-07-26 20:00:00, spread 240).
+2026-07-27 02:06:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-27 02:06:55  --- NAZON auto run end ---
+
+2026-07-27 10:06:49  --- NAZON auto run start ---
+2026-07-27 10:07:19  SCAN XAUUSDm: logged not_approved none (candle 2026-07-27 04:00:00, spread 240).
+2026-07-27 10:07:19  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-27 10:07:19  --- NAZON auto run end ---
+
+2026-07-27 14:06:48  --- NAZON auto run start ---
+2026-07-27 14:07:20  SCAN XAUUSDm: logged not_approved none (candle 2026-07-27 08:00:00, spread 240).
+2026-07-27 14:07:20  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-27 14:07:20  --- NAZON auto run end ---
+
+2026-07-27 21:09:24  --- NAZON auto run start ---
+2026-07-27 21:16:57  SCAN XAUUSDm: logged not_approved none (candle 2026-07-27 12:00:00, spread 240).
+2026-07-27 21:16:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-27 21:16:57  --- NAZON auto run end ---
+
+2026-07-28 08:58:22  --- NAZON auto run start ---
+2026-07-28 08:59:24  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-28 08:59:25  RESOLVE skipped — could not connect to MT5.
+2026-07-28 08:59:25  --- NAZON auto run end ---
+
+2026-07-28 10:06:51  --- NAZON auto run start ---
+2026-07-28 10:07:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-28 10:07:14  RESOLVE skipped — could not connect to MT5.
+2026-07-28 10:07:14  --- NAZON auto run end ---
+
+2026-07-28 14:37:10  --- NAZON auto run start ---
+2026-07-28 14:37:22  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-28 14:37:22  RESOLVE skipped — could not connect to MT5.
+2026-07-28 14:37:22  --- NAZON auto run end ---
+
+2026-07-28 18:06:45  --- NAZON auto run start ---
+2026-07-28 18:06:46  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-28 18:06:46  RESOLVE skipped — could not connect to MT5.
+2026-07-28 18:06:46  --- NAZON auto run end ---
+
+2026-07-28 18:36:53  --- NAZON auto run start ---
+2026-07-28 18:36:53  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-28 18:36:53  RESOLVE skipped — could not connect to MT5.
+2026-07-28 18:36:53  --- NAZON auto run end ---
+
+2026-07-28 22:06:48  --- NAZON auto run start ---
+2026-07-28 22:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-07-28 16:00:00, spread 240).
+2026-07-28 22:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-28 22:07:04  --- NAZON auto run end ---
+
+2026-07-28 22:36:56  --- NAZON auto run start ---
+2026-07-28 22:37:05  SCAN XAUUSDm: candle 2026-07-28 16:00:00 already logged — skipped.
+2026-07-28 22:37:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-28 22:37:05  --- NAZON auto run end ---
+
+2026-07-29 10:06:49  --- NAZON auto run start ---
+2026-07-29 10:08:54  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-29 10:10:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-29 10:10:00  --- NAZON auto run end ---
+
+2026-07-29 14:06:48  --- NAZON auto run start ---
+2026-07-29 14:09:11  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-29 14:11:21  RESOLVE skipped — could not connect to MT5.
+2026-07-29 14:11:21  --- NAZON auto run end ---
+
+2026-07-29 18:06:48  --- NAZON auto run start ---
+2026-07-29 18:09:17  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-29 18:10:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-29 18:10:15  --- NAZON auto run end ---
+
+2026-07-29 22:06:50  --- NAZON auto run start ---
+2026-07-29 22:07:03  SCAN XAUUSDm: logged not_approved none (candle 2026-07-29 16:00:00, spread 240).
+2026-07-29 22:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-29 22:07:03  --- NAZON auto run end ---
+
+2026-07-30 02:06:48  --- NAZON auto run start ---
+2026-07-30 02:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-07-29 20:00:00, spread 240).
+2026-07-30 02:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-30 02:07:01  --- NAZON auto run end ---
+
+2026-07-30 07:28:47  --- NAZON auto run start ---
+2026-07-30 07:29:13  SCAN XAUUSDm: logged not_approved none (candle 2026-07-30 00:00:00, spread 240).
+2026-07-30 07:29:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-30 07:29:13  --- NAZON auto run end ---
+
+2026-07-30 10:06:47  --- NAZON auto run start ---
+2026-07-30 10:09:22  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-30 10:09:45  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-30 10:09:45  --- NAZON auto run end ---
+
+2026-07-30 14:06:48  --- NAZON auto run start ---
+2026-07-30 14:07:10  SCAN XAUUSDm: logged not_approved none (candle 2026-07-30 08:00:00, spread 240).
+2026-07-30 14:07:10  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-30 14:07:10  --- NAZON auto run end ---
+
+2026-07-30 19:21:06  --- NAZON auto run start ---
+2026-07-30 19:21:43  SCAN XAUUSDm: logged not_approved none (candle 2026-07-30 12:00:00, spread 240).
+2026-07-30 19:21:43  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-30 19:21:43  --- NAZON auto run end ---
+
+2026-07-30 22:06:47  --- NAZON auto run start ---
+2026-07-30 22:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-07-30 16:00:00, spread 240).
+2026-07-30 22:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-30 22:07:04  --- NAZON auto run end ---
+
+2026-07-31 02:06:47  --- NAZON auto run start ---
+2026-07-31 02:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-07-30 20:00:00, spread 240).
+2026-07-31 02:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-07-31 02:07:00  --- NAZON auto run end ---
+
+2026-07-31 11:05:26  --- NAZON auto run start ---
+2026-07-31 11:06:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-31 11:06:00  RESOLVE skipped — could not connect to MT5.
+2026-07-31 11:06:00  --- NAZON auto run end ---
+
+2026-07-31 14:47:32  --- NAZON auto run start ---
+2026-07-31 14:47:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-31 14:47:59  RESOLVE skipped — could not connect to MT5.
+2026-07-31 14:47:59  --- NAZON auto run end ---
+
+2026-07-31 18:06:47  --- NAZON auto run start ---
+2026-07-31 18:06:58  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-07-31 18:06:58  RESOLVE skipped — could not connect to MT5.
+2026-07-31 18:06:58  --- NAZON auto run end ---
+
+2026-08-03 10:10:24  --- NAZON auto run start ---
+2026-08-03 10:22:27  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-03 10:22:28  RESOLVE skipped — could not connect to MT5.
+2026-08-03 10:22:28  --- NAZON auto run end ---
+
+2026-08-03 14:06:49  --- NAZON auto run start ---
+2026-08-03 14:07:07  SCAN XAUUSDm: logged not_approved none (candle 2026-08-03 08:00:00, spread 240).
+2026-08-03 14:07:07  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-03 14:07:07  --- NAZON auto run end ---
+
+2026-08-03 18:06:48  --- NAZON auto run start ---
+2026-08-03 18:07:03  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-03 18:07:03  RESOLVE skipped — could not connect to MT5.
+2026-08-03 18:07:03  --- NAZON auto run end ---
+
+2026-08-03 22:06:48  --- NAZON auto run start ---
+2026-08-03 22:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-08-03 16:00:00, spread 240).
+2026-08-03 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-03 22:07:01  --- NAZON auto run end ---
+
+2026-08-04 02:06:48  --- NAZON auto run start ---
+2026-08-04 02:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-08-03 20:00:00, spread 240).
+2026-08-04 02:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-04 02:07:01  --- NAZON auto run end ---
+
+2026-08-04 14:06:47  --- NAZON auto run start ---
+2026-08-04 14:07:22  SCAN XAUUSDm: logged not_approved none (candle 2026-08-04 08:00:00, spread 240).
+2026-08-04 14:07:22  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-04 14:07:22  --- NAZON auto run end ---
+
+2026-08-04 19:04:15  --- NAZON auto run start ---
+2026-08-04 19:08:04  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-04 19:08:13  RESOLVE skipped — could not connect to MT5.
+2026-08-04 19:08:13  --- NAZON auto run end ---
+
+2026-08-05 06:06:47  --- NAZON auto run start ---
+2026-08-05 06:08:42  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-05 06:11:26  RESOLVE skipped — could not connect to MT5.
+2026-08-05 06:11:26  --- NAZON auto run end ---
+
+2026-08-05 10:06:48  --- NAZON auto run start ---
+2026-08-05 10:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-08-05 04:00:00, spread 240).
+2026-08-05 10:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-05 10:07:04  --- NAZON auto run end ---
+
+2026-08-05 14:07:29  --- NAZON auto run start ---
+2026-08-05 14:07:52  SCAN XAUUSDm: logged not_approved none (candle 2026-08-05 08:00:00, spread 240).
+2026-08-05 14:07:53  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-05 14:07:53  --- NAZON auto run end ---
+
+2026-08-05 22:06:47  --- NAZON auto run start ---
+2026-08-05 22:07:17  SCAN XAUUSDm: logged not_approved none (candle 2026-08-05 00:00:00, spread 240).
+2026-08-05 22:07:17  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-05 22:07:17  --- NAZON auto run end ---
+
+2026-08-06 05:30:42  --- NAZON auto run start ---
+2026-08-06 05:32:07  SCAN XAUUSDm: logged not_approved none (candle 2026-08-05 20:00:00, spread 240).
+2026-08-06 05:32:08  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-06 05:32:08  --- NAZON auto run end ---
+
+2026-08-06 06:06:45  --- NAZON auto run start ---
+2026-08-06 06:06:48  SCAN XAUUSDm: logged not_approved none (candle 2026-08-06 00:00:00, spread 240).
+2026-08-06 06:06:48  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-06 06:06:48  --- NAZON auto run end ---
+
+2026-08-06 14:04:58  --- NAZON auto run start ---
+2026-08-06 14:05:28  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-06 14:05:28  RESOLVE skipped — could not connect to MT5.
+2026-08-06 14:05:28  --- NAZON auto run end ---
+
+2026-08-06 14:06:45  --- NAZON auto run start ---
+2026-08-06 14:06:46  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-06 14:06:46  RESOLVE skipped — could not connect to MT5.
+2026-08-06 14:06:46  --- NAZON auto run end ---
+
+2026-08-07 05:26:13  --- NAZON auto run start ---
+2026-08-07 05:33:21  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-07 05:33:21  RESOLVE skipped — could not connect to MT5.
+2026-08-07 05:33:21  --- NAZON auto run end ---
+
+2026-08-07 06:08:36  --- NAZON auto run start ---
+2026-08-07 06:09:13  SCAN XAUUSDm: logged approved buy (candle 2026-08-07 00:00:00, spread 260).
+2026-08-07 06:09:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-07 06:09:13  --- NAZON auto run end ---
+
+2026-08-07 10:06:49  --- NAZON auto run start ---
+2026-08-07 10:07:05  SCAN XAUUSDm: logged approved buy (candle 2026-08-07 04:00:00, spread 260).
+2026-08-07 10:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-07 10:07:05  --- NAZON auto run end ---
+
+2026-08-07 14:06:46  --- NAZON auto run start ---
+2026-08-07 14:06:54  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-07 14:06:54  RESOLVE skipped — could not connect to MT5.
+2026-08-07 14:06:54  --- NAZON auto run end ---
+
+2026-08-09 07:26:41  --- NAZON auto run start ---
+2026-08-09 07:28:10  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-09 07:28:11  RESOLVE skipped — could not connect to MT5.
+2026-08-09 07:28:11  --- NAZON auto run end ---
+
+2026-08-09 10:06:49  --- NAZON auto run start ---
+2026-08-09 10:07:05  SCAN XAUUSDm: logged approved buy (candle 2026-08-07 16:00:00, spread 260).
+2026-08-09 10:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-09 10:07:06  --- NAZON auto run end ---
+
+2026-08-09 14:06:47  --- NAZON auto run start ---
+2026-08-09 14:06:56  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-09 14:06:56  RESOLVE skipped — could not connect to MT5.
+2026-08-09 14:06:56  --- NAZON auto run end ---
+
+2026-08-09 18:21:01  --- NAZON auto run start ---
+2026-08-09 18:21:28  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-09 18:21:28  RESOLVE skipped — could not connect to MT5.
+2026-08-09 18:21:28  --- NAZON auto run end ---
+
+2026-08-10 10:24:00  --- NAZON auto run start ---
+2026-08-10 10:27:55  SCAN XAUUSDm: logged approved buy (candle 2026-08-10 04:00:00, spread 260).
+2026-08-10 10:27:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-10 10:27:57  --- NAZON auto run end ---
+
+2026-08-10 14:06:48  --- NAZON auto run start ---
+2026-08-10 14:07:05  SCAN XAUUSDm: logged not_approved none (candle 2026-08-10 08:00:00, spread 260).
+2026-08-10 14:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-10 14:07:06  --- NAZON auto run end ---
+
+2026-08-10 18:06:47  --- NAZON auto run start ---
+2026-08-10 18:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-08-10 12:00:00, spread 260).
+2026-08-10 18:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-10 18:07:02  --- NAZON auto run end ---
+
+2026-08-10 22:06:47  --- NAZON auto run start ---
+2026-08-10 22:07:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-10 22:07:00  RESOLVE skipped — could not connect to MT5.
+2026-08-10 22:07:00  --- NAZON auto run end ---
+
+2026-08-11 05:25:16  --- NAZON auto run start ---
+2026-08-11 05:25:52  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-11 05:25:52  RESOLVE skipped — could not connect to MT5.
+2026-08-11 05:25:52  --- NAZON auto run end ---
+
+2026-08-11 06:06:47  --- NAZON auto run start ---
+2026-08-11 06:06:56  SCAN XAUUSDm: logged approved buy (candle 2026-08-11 00:00:00, spread 260).
+2026-08-11 06:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-11 06:06:57  --- NAZON auto run end ---
+
+2026-08-11 10:06:47  --- NAZON auto run start ---
+2026-08-11 10:07:00  SCAN XAUUSDm: logged approved buy (candle 2026-08-11 04:00:00, spread 260).
+2026-08-11 10:07:01  RESOLVE: scored 1 newly-closed signal(s).
+2026-08-11 10:07:01  --- NAZON auto run end ---
+
+2026-08-11 14:06:50  --- NAZON auto run start ---
+2026-08-11 14:09:18  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-11 14:11:33  RESOLVE skipped — could not connect to MT5.
+2026-08-11 14:11:33  --- NAZON auto run end ---
+
+2026-08-11 18:06:49  --- NAZON auto run start ---
+2026-08-11 18:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-08-11 12:00:00, spread 260).
+2026-08-11 18:07:04  RESOLVE: scored 1 newly-closed signal(s).
+2026-08-11 18:07:04  --- NAZON auto run end ---
+
+2026-08-12 06:13:34  --- NAZON auto run start ---
+2026-08-12 06:16:37  SCAN XAUUSDm: logged not_approved none (candle 2026-08-12 00:00:00, spread 260).
+2026-08-12 06:16:41  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-12 06:16:41  --- NAZON auto run end ---
+
+2026-08-12 10:08:45  --- NAZON auto run start ---
+2026-08-12 10:11:22  SCAN XAUUSDm: logged not_approved none (candle 2026-08-12 04:00:00, spread 260).
+2026-08-12 10:11:22  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-12 10:11:22  --- NAZON auto run end ---
+
+2026-08-13 14:06:47  --- NAZON auto run start ---
+2026-08-13 14:09:21  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-13 14:11:31  RESOLVE skipped — could not connect to MT5.
+2026-08-13 14:11:31  --- NAZON auto run end ---
+
+2026-08-13 18:06:46  --- NAZON auto run start ---
+2026-08-13 18:09:04  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-13 18:11:15  RESOLVE skipped — could not connect to MT5.
+2026-08-13 18:11:15  --- NAZON auto run end ---
+
+2026-08-13 22:06:48  --- NAZON auto run start ---
+2026-08-13 22:07:09  SCAN XAUUSDm: logged approved buy (candle 2026-08-13 16:00:00, spread 260).
+2026-08-13 22:07:10  RESOLVE: scored 4 newly-closed signal(s).
+2026-08-13 22:07:10  --- NAZON auto run end ---
+
+2026-08-14 22:06:48  --- NAZON auto run start ---
+2026-08-14 22:09:21  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-14 22:10:29  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-14 22:10:29  --- NAZON auto run end ---
+
+2026-08-15 08:27:33  --- NAZON auto run start ---
+2026-08-15 08:30:15  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-15 08:32:40  RESOLVE skipped — could not connect to MT5.
+2026-08-15 08:32:40  --- NAZON auto run end ---
+
+2026-08-15 10:06:46  --- NAZON auto run start ---
+2026-08-15 10:09:12  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-15 10:11:24  RESOLVE skipped — could not connect to MT5.
+2026-08-15 10:11:24  --- NAZON auto run end ---
+
+2026-08-16 14:06:47  --- NAZON auto run start ---
+2026-08-16 14:07:08  SCAN XAUUSDm: logged not_approved none (candle 2026-08-14 16:00:00, spread 260).
+2026-08-16 14:07:08  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-16 14:07:08  --- NAZON auto run end ---
+
+2026-08-16 18:06:46  --- NAZON auto run start ---
+2026-08-16 18:06:56  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-16 18:06:56  RESOLVE skipped — could not connect to MT5.
+2026-08-16 18:06:56  --- NAZON auto run end ---
+
+2026-08-16 22:06:47  --- NAZON auto run start ---
+2026-08-16 22:06:58  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-16 22:06:58  RESOLVE skipped — could not connect to MT5.
+2026-08-16 22:06:58  --- NAZON auto run end ---
+
+2026-08-17 02:47:53  --- NAZON auto run start ---
+2026-08-17 02:47:54  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-17 02:47:54  RESOLVE skipped — could not connect to MT5.
+2026-08-17 02:47:54  --- NAZON auto run end ---
+
+2026-08-17 09:42:46  --- NAZON auto run start ---
+2026-08-17 09:43:16  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-17 09:43:17  RESOLVE skipped — could not connect to MT5.
+2026-08-17 09:43:17  --- NAZON auto run end ---
+
+2026-08-17 10:06:47  --- NAZON auto run start ---
+2026-08-17 10:06:56  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-17 10:06:56  RESOLVE skipped — could not connect to MT5.
+2026-08-17 10:06:56  --- NAZON auto run end ---
+
+2026-08-17 14:06:54  --- NAZON auto run start ---
+2026-08-17 14:07:17  SCAN XAUUSDm: logged not_approved none (candle 2026-08-17 08:00:00, spread 260).
+2026-08-17 14:07:20  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-17 14:07:20  --- NAZON auto run end ---
+
+2026-08-17 18:06:47  --- NAZON auto run start ---
+2026-08-17 18:06:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-17 18:06:59  RESOLVE skipped — could not connect to MT5.
+2026-08-17 18:06:59  --- NAZON auto run end ---
+
+2026-08-17 22:06:47  --- NAZON auto run start ---
+2026-08-17 22:07:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-17 22:07:00  RESOLVE skipped — could not connect to MT5.
+2026-08-17 22:07:00  --- NAZON auto run end ---
+
+2026-08-18 11:28:20  --- NAZON auto run start ---
+2026-08-18 11:29:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-18 11:29:00  RESOLVE skipped — could not connect to MT5.
+2026-08-18 11:29:00  --- NAZON auto run end ---
+
+2026-08-18 14:06:46  --- NAZON auto run start ---
+2026-08-18 14:06:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-18 14:06:59  RESOLVE skipped — could not connect to MT5.
+2026-08-18 14:06:59  --- NAZON auto run end ---
+
+2026-08-18 20:35:15  --- NAZON auto run start ---
+2026-08-18 20:35:52  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-18 20:35:52  RESOLVE skipped — could not connect to MT5.
+2026-08-18 20:35:52  --- NAZON auto run end ---
+
+2026-08-18 22:06:47  --- NAZON auto run start ---
+2026-08-18 22:06:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-18 22:07:00  RESOLVE skipped — could not connect to MT5.
+2026-08-18 22:07:00  --- NAZON auto run end ---
+
+2026-08-19 08:02:35  --- NAZON auto run start ---
+2026-08-19 08:03:19  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-19 08:03:19  RESOLVE skipped — could not connect to MT5.
+2026-08-19 08:03:19  --- NAZON auto run end ---
+
+2026-08-19 10:06:46  --- NAZON auto run start ---
+2026-08-19 10:06:58  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-19 10:06:58  RESOLVE skipped — could not connect to MT5.
+2026-08-19 10:06:58  --- NAZON auto run end ---
+
+2026-08-19 20:48:44  --- NAZON auto run start ---
+2026-08-19 20:49:12  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-19 20:49:12  RESOLVE skipped — could not connect to MT5.
+2026-08-19 20:49:12  --- NAZON auto run end ---
+
+2026-08-20 14:07:14  --- NAZON auto run start ---
+2026-08-20 14:08:35  SCAN XAUUSDm: logged not_approved none (candle 2026-08-20 08:00:00, spread 260).
+2026-08-20 14:08:37  RESOLVE: scored 1 newly-closed signal(s).
+2026-08-20 14:08:37  --- NAZON auto run end ---
+
+2026-08-20 22:06:45  --- NAZON auto run start ---
+2026-08-20 22:07:15  SCAN XAUUSDm: logged approved buy (candle 2026-08-20 16:00:00, spread 260).
+2026-08-20 22:07:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-20 22:07:15  --- NAZON auto run end ---
+
+2026-08-21 11:45:25  --- NAZON auto run start ---
+2026-08-21 11:50:35  SCAN XAUUSDm: logged approved buy (candle 2026-08-21 04:00:00, spread 260).
+2026-08-21 11:50:42  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-21 11:50:42  --- NAZON auto run end ---
+
+2026-08-21 14:06:45  --- NAZON auto run start ---
+2026-08-21 14:06:56  SCAN XAUUSDm: logged approved buy (candle 2026-08-21 08:00:00, spread 260).
+2026-08-21 14:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-21 14:06:57  --- NAZON auto run end ---
+
+2026-08-21 18:06:46  --- NAZON auto run start ---
+2026-08-21 18:06:57  SCAN XAUUSDm: logged approved buy (candle 2026-08-21 12:00:00, spread 260).
+2026-08-21 18:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-21 18:06:58  --- NAZON auto run end ---
+
+2026-08-21 22:06:45  --- NAZON auto run start ---
+2026-08-21 22:06:52  SCAN XAUUSDm: logged approved buy (candle 2026-08-21 16:00:00, spread 260).
+2026-08-21 22:06:52  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-21 22:06:52  --- NAZON auto run end ---
+
+2026-08-22 14:06:48  --- NAZON auto run start ---
+2026-08-22 14:07:29  SCAN XAUUSDm: candle 2026-08-21 16:00:00 already logged — skipped.
+2026-08-22 14:07:30  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-22 14:07:30  --- NAZON auto run end ---
+
+2026-08-22 22:15:44  --- NAZON auto run start ---
+2026-08-22 22:16:58  SCAN XAUUSDm: candle 2026-08-21 16:00:00 already logged — skipped.
+2026-08-22 22:17:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-22 22:17:01  --- NAZON auto run end ---
+
+2026-08-23 18:47:08  --- NAZON auto run start ---
+2026-08-23 18:50:19  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-23 22:06:50  --- NAZON auto run start ---
+2026-08-23 22:07:14  SCAN XAUUSDm: candle 2026-08-21 16:00:00 already logged — skipped.
+2026-08-23 22:07:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-23 22:07:15  --- NAZON auto run end ---
+
+2026-08-24 02:06:47  --- NAZON auto run start ---
+2026-08-24 02:07:11  SCAN XAUUSDm: logged approved buy (candle 2026-08-23 20:00:00, spread 260).
+2026-08-24 02:07:12  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-24 02:07:12  --- NAZON auto run end ---
+
+2026-08-24 16:53:02  --- NAZON auto run start ---
+2026-08-24 16:53:59  SCAN XAUUSDm: logged approved buy (candle 2026-08-24 08:00:00, spread 260).
+2026-08-24 16:54:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-24 16:54:00  --- NAZON auto run end ---
+
+2026-08-24 18:06:51  --- NAZON auto run start ---
+2026-08-24 18:07:09  SCAN XAUUSDm: logged approved buy (candle 2026-08-24 12:00:00, spread 260).
+2026-08-24 18:07:09  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-24 18:07:09  --- NAZON auto run end ---
+
+2026-08-24 22:06:49  --- NAZON auto run start ---
+2026-08-24 22:07:03  SCAN XAUUSDm: logged approved buy (candle 2026-08-24 16:00:00, spread 260).
+2026-08-24 22:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-24 22:07:03  --- NAZON auto run end ---
+
+2026-08-25 09:04:57  --- NAZON auto run start ---
+2026-08-25 09:09:08  SCAN XAUUSDm: logged not_approved none (candle 2026-08-25 00:00:00, spread 260).
+2026-08-25 09:09:09  RESOLVE: scored 1 newly-closed signal(s).
+2026-08-25 09:09:09  --- NAZON auto run end ---
+
+2026-08-25 10:06:47  --- NAZON auto run start ---
+2026-08-25 10:09:03  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-25 10:11:17  RESOLVE skipped — could not connect to MT5.
+2026-08-25 10:11:17  --- NAZON auto run end ---
+
+2026-08-25 16:11:32  --- NAZON auto run start ---
+2026-08-25 20:36:15  SCAN XAUUSDm: logged not_approved none (candle 2026-08-25 12:00:00, spread 260).
+2026-08-25 20:36:22  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-25 20:36:22  --- NAZON auto run end ---
+
+2026-08-25 22:06:49  --- NAZON auto run start ---
+2026-08-25 22:07:05  SCAN XAUUSDm: logged not_approved none (candle 2026-08-25 16:00:00, spread 260).
+2026-08-25 22:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-25 22:07:05  --- NAZON auto run end ---
+
+2026-08-26 08:47:19  --- NAZON auto run start ---
+2026-08-26 08:49:06  SCAN XAUUSDm: logged approved buy (candle 2026-08-26 00:00:00, spread 260).
+2026-08-26 08:49:08  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-26 08:49:08  --- NAZON auto run end ---
+
+2026-08-26 10:06:45  --- NAZON auto run start ---
+2026-08-26 10:07:51  SCAN XAUUSDm: logged approved buy (candle 2026-08-26 04:00:00, spread 260).
+2026-08-26 10:07:51  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-26 10:07:51  --- NAZON auto run end ---
+
+2026-08-26 14:06:59  --- NAZON auto run start ---
+2026-08-26 14:08:01  SCAN XAUUSDm: logged approved buy (candle 2026-08-26 08:00:00, spread 260).
+2026-08-26 14:08:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-26 14:08:01  --- NAZON auto run end ---
+
+2026-08-26 22:06:48  --- NAZON auto run start ---
+2026-08-26 22:07:17  SCAN XAUUSDm: candle 2026-08-26 00:00:00 already logged — skipped.
+2026-08-26 22:07:17  RESOLVE: scored 4 newly-closed signal(s).
+2026-08-26 22:07:17  --- NAZON auto run end ---
+
+2026-08-27 14:06:45  --- NAZON auto run start ---
+2026-08-27 14:06:52  SCAN XAUUSDm: logged not_approved none (candle 2026-08-27 08:00:00, spread 260).
+2026-08-27 14:06:52  RESOLVE: scored 3 newly-closed signal(s).
+2026-08-27 14:06:52  --- NAZON auto run end ---
+
+2026-08-27 18:06:48  --- NAZON auto run start ---
+2026-08-27 18:07:16  SCAN XAUUSDm: logged not_approved none (candle 2026-08-27 12:00:00, spread 260).
+2026-08-27 18:07:16  RESOLVE: scored 1 newly-closed signal(s).
+2026-08-27 18:07:16  --- NAZON auto run end ---
+
+2026-08-27 22:06:46  --- NAZON auto run start ---
+2026-08-27 22:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-08-27 16:00:00, spread 260).
+2026-08-27 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-27 22:07:01  --- NAZON auto run end ---
+
+2026-08-28 02:06:46  --- NAZON auto run start ---
+2026-08-28 02:08:37  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-28 02:10:19  RESOLVE skipped — could not connect to MT5.
+2026-08-28 02:10:19  --- NAZON auto run end ---
+
+2026-08-28 07:11:33  --- NAZON auto run start ---
+2026-08-28 07:14:08  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-28 07:16:08  RESOLVE skipped — could not connect to MT5.
+2026-08-28 07:16:17  --- NAZON auto run end ---
+
+2026-08-28 10:06:45  --- NAZON auto run start ---
+2026-08-28 10:09:02  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-28 10:11:13  RESOLVE skipped — could not connect to MT5.
+2026-08-28 10:11:13  --- NAZON auto run end ---
+
+2026-08-28 16:11:25  --- NAZON auto run start ---
+2026-08-28 19:10:45  --- NAZON auto run start ---
+2026-08-28 19:13:10  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-28 19:15:21  RESOLVE skipped — could not connect to MT5.
+2026-08-28 19:15:21  --- NAZON auto run end ---
+
+2026-08-28 22:06:48  --- NAZON auto run start ---
+2026-08-28 22:07:06  SCAN XAUUSDm: logged not_approved none (candle 2026-08-28 16:00:00, spread 260).
+2026-08-28 22:07:06  RESOLVE: scored 3 newly-closed signal(s).
+2026-08-28 22:07:06  --- NAZON auto run end ---
+
+2026-08-29 02:06:49  --- NAZON auto run start ---
+2026-08-29 02:07:06  SCAN XAUUSDm: candle 2026-08-28 16:00:00 already logged — skipped.
+2026-08-29 02:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-29 02:07:06  --- NAZON auto run end ---
+
+2026-08-29 12:34:39  --- NAZON auto run start ---
+2026-08-29 12:35:01  SCAN XAUUSDm: candle 2026-08-28 16:00:00 already logged — skipped.
+2026-08-29 12:35:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-29 12:35:01  --- NAZON auto run end ---
+
+2026-08-29 14:06:46  --- NAZON auto run start ---
+2026-08-29 14:06:57  SCAN XAUUSDm: candle 2026-08-28 16:00:00 already logged — skipped.
+2026-08-29 14:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-29 14:06:57  --- NAZON auto run end ---
+
+2026-08-29 20:37:48  --- NAZON auto run start ---
+2026-08-29 20:58:13  SCAN XAUUSDm: candle 2026-08-28 16:00:00 already logged — skipped.
+2026-08-29 20:58:23  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-29 20:58:23  --- NAZON auto run end ---
+
+2026-08-29 22:06:47  --- NAZON auto run start ---
+2026-08-29 22:17:31  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-29 22:19:27  RESOLVE skipped — could not connect to MT5.
+2026-08-29 22:19:42  --- NAZON auto run end ---
+
+2026-08-30 14:06:47  --- NAZON auto run start ---
+2026-08-30 14:08:43  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-08-30 14:09:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-30 14:09:05  --- NAZON auto run end ---
+
+2026-08-30 18:06:45  --- NAZON auto run start ---
+2026-08-30 18:06:50  SCAN XAUUSDm: candle 2026-08-28 16:00:00 already logged — skipped.
+2026-08-30 18:06:50  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-30 18:06:50  --- NAZON auto run end ---
+
+2026-08-30 22:12:58  --- NAZON auto run start ---
+2026-08-30 22:13:06  SCAN XAUUSDm: candle 2026-08-28 16:00:00 already logged — skipped.
+2026-08-30 22:13:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-30 22:13:06  --- NAZON auto run end ---
+
+2026-08-31 13:07:57  --- NAZON auto run start ---
+2026-08-31 13:09:03  SCAN XAUUSDm: logged not_approved none (candle 2026-08-31 04:00:00, spread 260).
+2026-08-31 13:09:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-31 13:09:03  --- NAZON auto run end ---
+
+2026-08-31 21:53:30  --- NAZON auto run start ---
+2026-08-31 21:54:56  SCAN XAUUSDm: logged not_approved none (candle 2026-08-31 12:00:00, spread 260).
+2026-08-31 21:54:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-31 21:54:56  --- NAZON auto run end ---
+
+2026-08-31 22:06:58  --- NAZON auto run start ---
+2026-08-31 22:09:44  SCAN XAUUSDm: logged not_approved none (candle 2026-08-31 16:00:00, spread 260).
+2026-08-31 22:09:45  RESOLVE: scored 0 newly-closed signal(s).
+2026-08-31 22:09:45  --- NAZON auto run end ---
+
+2026-09-01 02:06:46  --- NAZON auto run start ---
+2026-09-01 02:06:55  SCAN XAUUSDm: logged not_approved none (candle 2026-08-31 20:00:00, spread 260).
+2026-09-01 02:06:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-01 02:06:55  --- NAZON auto run end ---
+
+2026-09-01 06:06:50  --- NAZON auto run start ---
+2026-09-01 06:09:17  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-01 06:09:17  RESOLVE skipped — could not connect to MT5.
+2026-09-01 06:09:17  --- NAZON auto run end ---
+
+2026-09-01 14:18:53  --- NAZON auto run start ---
+2026-09-01 14:40:32  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-01 14:40:33  RESOLVE skipped — could not connect to MT5.
+2026-09-01 14:40:33  --- NAZON auto run end ---
+
+2026-09-01 18:06:58  --- NAZON auto run start ---
+2026-09-01 18:09:53  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-01 18:09:58  RESOLVE skipped — could not connect to MT5.
+2026-09-01 18:09:58  --- NAZON auto run end ---
+
+2026-09-02 06:09:46  --- NAZON auto run start ---
+2026-09-02 06:42:06  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-02 06:42:10  RESOLVE skipped — could not connect to MT5.
+2026-09-02 06:42:10  --- NAZON auto run end ---
+
+2026-09-02 10:06:47  --- NAZON auto run start ---
+2026-09-02 10:07:03  SCAN XAUUSDm: logged not_approved sell (candle 2026-09-02 04:00:00, spread 260).
+2026-09-02 10:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 10:07:04  --- NAZON auto run end ---
+
+2026-09-02 10:09:56  --- NAZON auto run start ---
+2026-09-02 10:10:04  SCAN XAUUSDm: candle 2026-09-02 04:00:00 already logged — skipped.
+2026-09-02 10:10:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 10:10:04  --- NAZON auto run end ---
+
+2026-09-02 14:12:02  --- NAZON auto run start ---
+2026-09-02 14:13:05  SCAN XAUUSDm: logged not_approved sell (candle 2026-09-02 08:00:00, spread 260).
+2026-09-02 14:13:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 14:13:05  --- NAZON auto run end ---
+
+2026-09-02 18:06:46  --- NAZON auto run start ---
+2026-09-02 18:06:56  SCAN XAUUSDm: logged not_approved none (candle 2026-09-02 12:00:00, spread 260).
+2026-09-02 18:06:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 18:06:56  --- NAZON auto run end ---
+
+2026-09-02 18:09:54  --- NAZON auto run start ---
+2026-09-02 18:09:55  SCAN XAUUSDm: candle 2026-09-02 12:00:00 already logged — skipped.
+2026-09-02 18:09:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 18:09:55  --- NAZON auto run end ---
+
+2026-09-02 22:06:46  --- NAZON auto run start ---
+2026-09-02 22:06:55  SCAN XAUUSDm: logged not_approved none (candle 2026-09-02 16:00:00, spread 260).
+2026-09-02 22:06:55  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 22:06:55  --- NAZON auto run end ---
+
+2026-09-02 22:09:55  --- NAZON auto run start ---
+2026-09-02 22:09:56  SCAN XAUUSDm: candle 2026-09-02 16:00:00 already logged — skipped.
+2026-09-02 22:09:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-02 22:09:56  --- NAZON auto run end ---
+
+2026-09-03 18:35:08  --- NAZON auto run start ---
+2026-09-03 18:35:41  SCAN XAUUSDm: logged not_approved none (candle 2026-09-03 12:00:00, spread 260).
+2026-09-03 18:35:41  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-03 18:35:41  --- NAZON auto run end ---
+
+2026-09-03 22:06:49  --- NAZON auto run start ---
+2026-09-03 22:07:05  SCAN XAUUSDm: logged not_approved none (candle 2026-09-03 16:00:00, spread 260).
+2026-09-03 22:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-03 22:07:05  --- NAZON auto run end ---
+
+2026-09-03 22:09:55  --- NAZON auto run start ---
+2026-09-03 22:09:56  SCAN XAUUSDm: candle 2026-09-03 16:00:00 already logged — skipped.
+2026-09-03 22:09:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-03 22:09:56  --- NAZON auto run end ---
+
+2026-09-04 07:43:09  --- NAZON auto run start ---
+2026-09-04 07:44:48  SCAN XAUUSDm: logged not_approved none (candle 2026-09-04 00:00:00, spread 260).
+2026-09-04 07:44:49  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-04 07:44:49  --- NAZON auto run end ---
+
+2026-09-04 10:06:47  --- NAZON auto run start ---
+2026-09-04 10:09:55  --- NAZON auto run start ---
+2026-09-04 10:10:02  SCAN XAUUSDm: logged approved buy (candle 2026-09-04 04:00:00, spread 260).
+2026-09-04 10:10:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-04 10:10:02  --- NAZON auto run end ---
+
+2026-09-04 20:27:50  --- NAZON auto run start ---
+2026-09-05 01:17:56  --- NAZON auto run start ---
+2026-09-05 01:21:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-05 01:23:28  RESOLVE skipped — could not connect to MT5.
+2026-09-05 01:23:28  --- NAZON auto run end ---
+
+2026-09-05 02:06:47  --- NAZON auto run start ---
+2026-09-05 02:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-09-04 16:00:00, spread 260).
+2026-09-05 02:06:59  RESOLVE: scored 1 newly-closed signal(s).
+2026-09-05 02:06:59  --- NAZON auto run end ---
+
+2026-09-05 05:09:19  --- NAZON auto run start ---
+2026-09-05 07:38:30  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-05 07:38:32  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-05 07:38:32  --- NAZON auto run end ---
+
+2026-09-05 10:06:47  --- NAZON auto run start ---
+2026-09-05 10:06:59  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-05 10:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-05 10:06:59  --- NAZON auto run end ---
+
+2026-09-05 10:09:55  --- NAZON auto run start ---
+2026-09-05 10:09:56  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-05 10:09:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-05 10:09:56  --- NAZON auto run end ---
+
+2026-09-05 15:59:16  --- NAZON auto run start ---
+2026-09-05 18:06:46  --- NAZON auto run start ---
+2026-09-05 18:07:23  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-05 18:07:24  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-05 18:07:24  --- NAZON auto run end ---
+
+2026-09-05 22:06:45  --- NAZON auto run start ---
+2026-09-05 22:06:47  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-05 22:06:48  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-05 22:06:48  --- NAZON auto run end ---
+
+2026-09-06 10:06:48  --- NAZON auto run start ---
+2026-09-06 10:07:25  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-06 10:07:26  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-06 10:07:26  --- NAZON auto run end ---
+
+2026-09-06 14:06:47  --- NAZON auto run start ---
+2026-09-06 14:06:57  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-06 14:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-06 14:06:57  --- NAZON auto run end ---
+
+2026-09-06 18:06:48  --- NAZON auto run start ---
+2026-09-06 18:07:15  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-06 18:07:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-06 18:07:15  --- NAZON auto run end ---
+
+2026-09-06 22:06:48  --- NAZON auto run start ---
+2026-09-06 22:07:02  SCAN XAUUSDm: candle 2026-09-04 16:00:00 already logged — skipped.
+2026-09-06 22:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-06 22:07:02  --- NAZON auto run end ---
+
+2026-09-07 16:37:52  --- NAZON auto run start ---
+2026-09-07 16:39:26  SCAN XAUUSDm: logged not_approved none (candle 2026-09-07 08:00:00, spread 260).
+2026-09-07 16:39:26  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-07 16:39:26  --- NAZON auto run end ---
+
+2026-09-07 18:06:48  --- NAZON auto run start ---
+2026-09-07 18:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-07 12:00:00, spread 260).
+2026-09-07 18:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-07 18:07:02  --- NAZON auto run end ---
+
+2026-09-07 22:06:47  --- NAZON auto run start ---
+2026-09-07 22:07:20  SCAN XAUUSDm: candle 2026-09-07 12:00:00 already logged — skipped.
+2026-09-07 22:07:20  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-07 22:07:20  --- NAZON auto run end ---
+
+2026-09-08 10:06:48  --- NAZON auto run start ---
+2026-09-08 10:07:14  SCAN XAUUSDm: logged not_approved none (candle 2026-09-08 04:00:00, spread 260).
+2026-09-08 10:07:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-08 10:07:15  --- NAZON auto run end ---
+
+2026-09-08 14:06:47  --- NAZON auto run start ---
+2026-09-08 14:09:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-08 14:11:24  RESOLVE skipped — could not connect to MT5.
+2026-09-08 14:11:24  --- NAZON auto run end ---
+
+2026-09-08 18:06:48  --- NAZON auto run start ---
+2026-09-08 18:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-09-08 12:00:00, spread 260).
+2026-09-08 18:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-08 18:06:59  --- NAZON auto run end ---
+
+2026-09-08 22:12:39  --- NAZON auto run start ---
+2026-09-08 22:14:56  SCAN XAUUSDm: logged not_approved none (candle 2026-09-08 16:00:00, spread 260).
+2026-09-08 22:14:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-08 22:14:56  --- NAZON auto run end ---
+
+2026-09-09 02:07:47  --- NAZON auto run start ---
+2026-09-09 02:08:16  SCAN XAUUSDm: logged not_approved none (candle 2026-09-08 20:00:00, spread 260).
+2026-09-09 02:08:17  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-09 02:08:17  --- NAZON auto run end ---
+
+2026-09-09 09:16:27  --- NAZON auto run start ---
+2026-09-09 09:24:18  SCAN XAUUSDm: logged not_approved none (candle 2026-09-09 00:00:00, spread 260).
+2026-09-09 09:24:18  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-09 09:24:18  --- NAZON auto run end ---
+
+2026-09-09 10:06:46  --- NAZON auto run start ---
+2026-09-09 10:06:55  SCAN XAUUSDm: logged not_approved none (candle 2026-09-09 04:00:00, spread 260).
+2026-09-09 10:06:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-09 10:06:56  --- NAZON auto run end ---
+
+2026-09-09 14:06:54  --- NAZON auto run start ---
+2026-09-09 14:07:35  SCAN XAUUSDm: logged not_approved none (candle 2026-09-09 08:00:00, spread 260).
+2026-09-09 14:07:35  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-09 14:07:35  --- NAZON auto run end ---
+
+2026-09-09 18:07:09  --- NAZON auto run start ---
+2026-09-09 18:10:05  SCAN XAUUSDm: logged not_approved none (candle 2026-09-09 12:00:00, spread 260).
+2026-09-09 18:10:07  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-09 18:10:07  --- NAZON auto run end ---
+
+2026-09-09 22:06:51  --- NAZON auto run start ---
+2026-09-09 22:07:10  SCAN XAUUSDm: logged not_approved none (candle 2026-09-09 16:00:00, spread 260).
+2026-09-09 22:07:10  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-09 22:07:10  --- NAZON auto run end ---
+
+2026-09-10 13:27:31  --- NAZON auto run start ---
+2026-09-10 13:31:13  SCAN XAUUSDm: logged not_approved none (candle 2026-09-10 04:00:00, spread 260).
+2026-09-10 13:31:17  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-10 13:31:17  --- NAZON auto run end ---
+
+2026-09-10 14:06:48  --- NAZON auto run start ---
+2026-09-10 14:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-09-10 08:00:00, spread 260).
+2026-09-10 14:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-10 14:06:59  --- NAZON auto run end ---
+
+2026-09-10 18:06:48  --- NAZON auto run start ---
+2026-09-10 18:07:08  SCAN XAUUSDm: logged not_approved none (candle 2026-09-10 12:00:00, spread 260).
+2026-09-10 18:07:08  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-10 18:07:08  --- NAZON auto run end ---
+
+2026-09-11 06:13:48  --- NAZON auto run start ---
+2026-09-11 06:23:56  SCAN XAUUSDm: logged not_approved none (candle 2026-09-11 00:00:00, spread 260).
+2026-09-11 06:23:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-11 06:23:57  --- NAZON auto run end ---
+
+2026-09-11 10:06:48  --- NAZON auto run start ---
+2026-09-11 10:07:05  SCAN XAUUSDm: logged not_approved none (candle 2026-09-11 04:00:00, spread 260).
+2026-09-11 10:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-11 10:07:05  --- NAZON auto run end ---
+
+2026-09-11 14:06:48  --- NAZON auto run start ---
+2026-09-11 14:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-09-11 08:00:00, spread 260).
+2026-09-11 14:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-11 14:07:01  --- NAZON auto run end ---
+
+2026-09-11 18:06:47  --- NAZON auto run start ---
+2026-09-11 18:09:15  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-11 18:11:26  RESOLVE skipped — could not connect to MT5.
+2026-09-11 18:11:26  --- NAZON auto run end ---
+
+2026-09-11 22:06:48  --- NAZON auto run start ---
+2026-09-11 22:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-09-11 16:00:00, spread 260).
+2026-09-11 22:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-11 22:06:59  --- NAZON auto run end ---
+
+2026-09-12 08:12:49  --- NAZON auto run start ---
+2026-09-12 08:15:36  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-12 08:17:53  RESOLVE skipped — could not connect to MT5.
+2026-09-12 08:17:53  --- NAZON auto run end ---
+
+2026-09-12 10:06:47  --- NAZON auto run start ---
+2026-09-12 10:09:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-12 10:11:27  RESOLVE skipped — could not connect to MT5.
+2026-09-12 10:11:27  --- NAZON auto run end ---
+
+2026-09-12 14:47:22  --- NAZON auto run start ---
+2026-09-12 18:06:47  --- NAZON auto run start ---
+2026-09-12 18:09:17  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-12 18:11:28  RESOLVE skipped — could not connect to MT5.
+2026-09-12 18:11:28  --- NAZON auto run end ---
+
+2026-09-13 12:15:50  --- NAZON auto run start ---
+2026-09-13 12:18:50  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-13 12:21:03  RESOLVE skipped — could not connect to MT5.
+2026-09-13 12:21:05  --- NAZON auto run end ---
+
+2026-09-13 14:06:50  --- NAZON auto run start ---
+2026-09-13 14:09:17  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-13 14:11:28  RESOLVE skipped — could not connect to MT5.
+2026-09-13 14:11:28  --- NAZON auto run end ---
+
+2026-09-13 18:06:48  --- NAZON auto run start ---
+2026-09-13 18:09:15  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-13 18:11:25  RESOLVE skipped — could not connect to MT5.
+2026-09-13 18:11:25  --- NAZON auto run end ---
+
+2026-09-13 22:06:47  --- NAZON auto run start ---
+2026-09-13 22:09:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-13 22:11:23  RESOLVE skipped — could not connect to MT5.
+2026-09-13 22:11:23  --- NAZON auto run end ---
+
+2026-09-14 07:51:05  --- NAZON auto run start ---
+2026-09-14 07:53:32  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-14 07:55:43  RESOLVE skipped — could not connect to MT5.
+2026-09-14 07:55:44  --- NAZON auto run end ---
+
+2026-09-14 10:06:48  --- NAZON auto run start ---
+2026-09-14 10:06:58  SCAN XAUUSDm: logged not_approved none (candle 2026-09-14 04:00:00, spread 260).
+2026-09-14 10:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-14 10:06:58  --- NAZON auto run end ---
+
+2026-09-14 18:06:48  --- NAZON auto run start ---
+2026-09-14 18:07:02  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-14 18:07:02  RESOLVE skipped — could not connect to MT5.
+2026-09-14 18:07:02  --- NAZON auto run end ---
+
+2026-09-14 22:06:47  --- NAZON auto run start ---
+2026-09-14 22:06:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-14 22:06:59  RESOLVE skipped — could not connect to MT5.
+2026-09-14 22:06:59  --- NAZON auto run end ---
+
+2026-09-15 02:07:40  --- NAZON auto run start ---
+2026-09-15 02:38:05  SCAN XAUUSDm: logged not_approved none (candle 2026-09-14 20:00:00, spread 260).
+2026-09-15 02:41:28  RESOLVE skipped — could not connect to MT5.
+2026-09-15 02:41:38  --- NAZON auto run end ---
+
+2026-09-15 12:07:31  --- NAZON auto run start ---
+2026-09-15 12:10:10  SCAN XAUUSDm: logged not_approved none (candle 2026-09-15 04:00:00, spread 260).
+2026-09-15 12:10:10  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-15 12:10:10  --- NAZON auto run end ---
+
+2026-09-15 14:08:20  --- NAZON auto run start ---
+2026-09-15 14:13:11  SCAN XAUUSDm: logged not_approved none (candle 2026-09-15 08:00:00, spread 260).
+2026-09-15 14:13:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-15 14:13:15  --- NAZON auto run end ---
+
+2026-09-15 22:06:46  --- NAZON auto run start ---
+2026-09-15 22:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-09-15 16:00:00, spread 260).
+2026-09-15 22:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-15 22:07:00  --- NAZON auto run end ---
+
+2026-09-16 02:06:47  --- NAZON auto run start ---
+2026-09-16 02:07:03  SCAN XAUUSDm: logged not_approved none (candle 2026-09-15 20:00:00, spread 240).
+2026-09-16 02:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-16 02:07:03  --- NAZON auto run end ---
+
+2026-09-16 13:28:26  --- NAZON auto run start ---
+2026-09-16 13:29:49  SCAN XAUUSDm: logged not_approved none (candle 2026-09-16 04:00:00, spread 260).
+2026-09-16 13:29:50  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-16 13:29:50  --- NAZON auto run end ---
+
+2026-09-16 14:06:47  --- NAZON auto run start ---
+2026-09-16 14:06:57  SCAN XAUUSDm: logged not_approved none (candle 2026-09-16 08:00:00, spread 260).
+2026-09-16 14:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-16 14:06:57  --- NAZON auto run end ---
+
+2026-09-16 18:06:45  --- NAZON auto run start ---
+2026-09-16 18:06:53  SCAN XAUUSDm: logged not_approved none (candle 2026-09-16 12:00:00, spread 260).
+2026-09-16 18:06:53  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-16 18:06:53  --- NAZON auto run end ---
+
+2026-09-16 22:06:45  --- NAZON auto run start ---
+2026-09-16 22:06:53  SCAN XAUUSDm: logged not_approved none (candle 2026-09-16 16:00:00, spread 260).
+2026-09-16 22:06:53  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-16 22:06:53  --- NAZON auto run end ---
+
+2026-09-17 02:06:53  --- NAZON auto run start ---
+2026-09-17 02:07:41  SCAN XAUUSDm: logged not_approved none (candle 2026-09-16 20:00:00, spread 260).
+2026-09-17 02:07:42  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-17 02:07:42  --- NAZON auto run end ---
+
+2026-09-17 10:42:26  --- NAZON auto run start ---
+2026-09-17 10:45:30  SCAN XAUUSDm: candle 2026-09-16 20:00:00 already logged — skipped.
+2026-09-17 10:45:31  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-17 10:45:31  --- NAZON auto run end ---
+
+2026-09-17 14:06:47  --- NAZON auto run start ---
+2026-09-17 14:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-09-17 08:00:00, spread 260).
+2026-09-17 14:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-17 14:07:00  --- NAZON auto run end ---
+
+2026-09-17 18:06:47  --- NAZON auto run start ---
+2026-09-17 18:09:16  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-17 18:11:28  RESOLVE skipped — could not connect to MT5.
+2026-09-17 18:11:28  --- NAZON auto run end ---
+
+2026-09-17 22:06:51  --- NAZON auto run start ---
+2026-09-17 22:07:28  SCAN XAUUSDm: logged not_approved none (candle 2026-09-17 16:00:00, spread 260).
+2026-09-17 22:07:28  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-17 22:07:28  --- NAZON auto run end ---
+
+2026-09-18 09:12:52  --- NAZON auto run start ---
+2026-09-18 09:14:12  SCAN XAUUSDm: logged not_approved none (candle 2026-09-18 00:00:00, spread 260).
+2026-09-18 09:14:12  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-18 09:14:12  --- NAZON auto run end ---
+
+2026-09-18 10:06:52  --- NAZON auto run start ---
+2026-09-18 10:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-09-18 04:00:00, spread 260).
+2026-09-18 10:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-18 10:07:04  --- NAZON auto run end ---
+
+2026-09-18 14:06:48  --- NAZON auto run start ---
+2026-09-18 14:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-09-18 08:00:00, spread 260).
+2026-09-18 14:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-18 14:07:04  --- NAZON auto run end ---
+
+2026-09-18 18:06:47  --- NAZON auto run start ---
+2026-09-18 18:07:45  SCAN XAUUSDm: logged not_approved none (candle 2026-09-18 12:00:00, spread 260).
+2026-09-18 18:07:45  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-18 18:07:45  --- NAZON auto run end ---
+
+2026-09-19 12:09:44  --- NAZON auto run start ---
+2026-09-19 12:14:01  SCAN XAUUSDm: logged not_approved none (candle 2026-09-18 16:00:00, spread 260).
+2026-09-19 12:14:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-19 12:14:03  --- NAZON auto run end ---
+
+2026-09-19 14:06:49  --- NAZON auto run start ---
+2026-09-19 14:07:05  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-19 14:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-19 14:07:05  --- NAZON auto run end ---
+
+2026-09-19 18:06:48  --- NAZON auto run start ---
+2026-09-19 18:07:00  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-19 18:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-19 18:07:00  --- NAZON auto run end ---
+
+2026-09-19 22:06:49  --- NAZON auto run start ---
+2026-09-19 22:07:08  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-19 22:07:08  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-19 22:07:08  --- NAZON auto run end ---
+
+2026-09-20 02:06:48  --- NAZON auto run start ---
+2026-09-20 02:07:00  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-20 02:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-20 02:07:00  --- NAZON auto run end ---
+
+2026-09-20 06:06:49  --- NAZON auto run start ---
+2026-09-20 06:07:01  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-20 06:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-20 06:07:01  --- NAZON auto run end ---
+
+2026-09-20 16:27:36  --- NAZON auto run start ---
+2026-09-20 16:32:41  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-20 16:32:42  RESOLVE skipped — could not connect to MT5.
+2026-09-20 16:32:42  --- NAZON auto run end ---
+
+2026-09-20 18:06:49  --- NAZON auto run start ---
+2026-09-20 18:07:03  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-20 18:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-20 18:07:04  --- NAZON auto run end ---
+
+2026-09-20 22:06:48  --- NAZON auto run start ---
+2026-09-20 22:07:02  SCAN XAUUSDm: candle 2026-09-18 16:00:00 already logged — skipped.
+2026-09-20 22:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-20 22:07:02  --- NAZON auto run end ---
+
+2026-09-21 02:06:50  --- NAZON auto run start ---
+2026-09-21 02:07:05  SCAN XAUUSDm: logged not_approved none (candle 2026-09-20 20:00:00, spread 260).
+2026-09-21 02:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-21 02:07:05  --- NAZON auto run end ---
+
+2026-09-21 06:06:49  --- NAZON auto run start ---
+2026-09-21 06:07:06  SCAN XAUUSDm: logged not_approved none (candle 2026-09-21 00:00:00, spread 260).
+2026-09-21 06:07:07  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-21 06:07:07  --- NAZON auto run end ---
+
+2026-09-21 13:35:03  --- NAZON auto run start ---
+2026-09-21 13:40:09  SCAN XAUUSDm: logged not_approved none (candle 2026-09-21 04:00:00, spread 260).
+2026-09-21 13:40:10  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-21 13:40:10  --- NAZON auto run end ---
+
+2026-09-21 14:06:48  --- NAZON auto run start ---
+2026-09-21 14:07:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-21 14:07:00  RESOLVE skipped — could not connect to MT5.
+2026-09-21 14:07:00  --- NAZON auto run end ---
+
+2026-09-21 18:06:49  --- NAZON auto run start ---
+2026-09-21 18:07:09  SCAN XAUUSDm: logged not_approved none (candle 2026-09-21 12:00:00, spread 260).
+2026-09-21 18:07:09  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-21 18:07:09  --- NAZON auto run end ---
+
+2026-09-21 22:06:49  --- NAZON auto run start ---
+2026-09-21 22:07:11  SCAN XAUUSDm: logged not_approved none (candle 2026-09-21 16:00:00, spread 260).
+2026-09-21 22:07:11  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-21 22:07:11  --- NAZON auto run end ---
+
+2026-09-22 02:06:48  --- NAZON auto run start ---
+2026-09-22 02:07:03  SCAN XAUUSDm: logged not_approved none (candle 2026-09-21 20:00:00, spread 260).
+2026-09-22 02:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-22 02:07:03  --- NAZON auto run end ---
+
+2026-09-22 06:06:49  --- NAZON auto run start ---
+2026-09-22 06:07:12  SCAN XAUUSDm: logged not_approved none (candle 2026-09-22 00:00:00, spread 260).
+2026-09-22 06:07:12  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-22 06:07:12  --- NAZON auto run end ---
+
+2026-09-22 10:06:49  --- NAZON auto run start ---
+2026-09-22 10:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-22 04:00:00, spread 260).
+2026-09-22 10:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-22 10:07:02  --- NAZON auto run end ---
+
+2026-09-22 14:06:48  --- NAZON auto run start ---
+2026-09-22 14:07:02  SCAN XAUUSDm: candle 2026-09-22 04:00:00 already logged — skipped.
+2026-09-22 14:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-22 14:07:02  --- NAZON auto run end ---
+
+2026-09-22 19:01:53  --- NAZON auto run start ---
+2026-09-22 19:02:16  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-22 19:02:16  RESOLVE skipped — could not connect to MT5.
+2026-09-22 19:02:16  --- NAZON auto run end ---
+
+2026-09-22 22:06:47  --- NAZON auto run start ---
+2026-09-22 22:06:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-22 22:06:59  RESOLVE skipped — could not connect to MT5.
+2026-09-22 22:06:59  --- NAZON auto run end ---
+
+2026-09-23 10:02:49  --- NAZON auto run start ---
+2026-09-23 10:03:23  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-23 10:03:23  RESOLVE skipped — could not connect to MT5.
+2026-09-23 10:03:23  --- NAZON auto run end ---
+
+2026-09-23 10:06:45  --- NAZON auto run start ---
+2026-09-23 10:06:46  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-23 10:06:46  RESOLVE skipped — could not connect to MT5.
+2026-09-23 10:06:46  --- NAZON auto run end ---
+
+2026-09-23 14:06:50  --- NAZON auto run start ---
+2026-09-23 14:07:05  SCAN XAUUSDm: logged not_approved none (candle 2026-09-23 08:00:00, spread 260).
+2026-09-23 14:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-23 14:07:05  --- NAZON auto run end ---
+
+2026-09-23 18:06:49  --- NAZON auto run start ---
+2026-09-23 18:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-23 12:00:00, spread 260).
+2026-09-23 18:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-23 18:07:02  --- NAZON auto run end ---
+
+2026-09-23 22:06:48  --- NAZON auto run start ---
+2026-09-23 22:07:06  SCAN XAUUSDm: logged not_approved none (candle 2026-09-23 16:00:00, spread 260).
+2026-09-23 22:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-23 22:07:06  --- NAZON auto run end ---
+
+2026-09-24 14:47:16  --- NAZON auto run start ---
+2026-09-24 14:49:18  SCAN XAUUSDm: logged not_approved none (candle 2026-09-24 08:00:00, spread 240).
+2026-09-24 14:49:19  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-24 14:49:19  --- NAZON auto run end ---
+
+2026-09-24 18:06:49  --- NAZON auto run start ---
+2026-09-24 18:07:16  SCAN XAUUSDm: logged not_approved none (candle 2026-09-24 12:00:00, spread 240).
+2026-09-24 18:07:16  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-24 18:07:16  --- NAZON auto run end ---
+
+2026-09-24 18:39:02  --- NAZON auto run start ---
+2026-09-24 18:39:12  SCAN XAUUSDm: candle 2026-09-24 12:00:00 already logged — skipped.
+2026-09-24 18:39:12  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-24 18:39:12  --- NAZON auto run end ---
+
+2026-09-24 22:06:47  --- NAZON auto run start ---
+2026-09-24 22:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-24 16:00:00, spread 240).
+2026-09-24 22:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-24 22:07:02  --- NAZON auto run end ---
+
+2026-09-24 22:39:02  --- NAZON auto run start ---
+2026-09-24 22:39:12  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-24 22:39:12  RESOLVE skipped — could not connect to MT5.
+2026-09-24 22:39:12  --- NAZON auto run end ---
+
+2026-09-25 02:06:47  --- NAZON auto run start ---
+2026-09-25 02:06:59  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-25 02:06:59  RESOLVE skipped — could not connect to MT5.
+2026-09-25 02:06:59  --- NAZON auto run end ---
+
+2026-09-25 02:39:01  --- NAZON auto run start ---
+2026-09-25 02:39:10  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-25 02:39:10  RESOLVE skipped — could not connect to MT5.
+2026-09-25 02:39:10  --- NAZON auto run end ---
+
+2026-09-25 06:06:48  --- NAZON auto run start ---
+2026-09-25 06:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-25 00:00:00, spread 260).
+2026-09-25 06:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 06:07:03  --- NAZON auto run end ---
+
+2026-09-25 06:39:00  --- NAZON auto run start ---
+2026-09-25 06:39:01  SCAN XAUUSDm: candle 2026-09-25 00:00:00 already logged — skipped.
+2026-09-25 06:39:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 06:39:01  --- NAZON auto run end ---
+
+2026-09-25 10:06:48  --- NAZON auto run start ---
+2026-09-25 10:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-25 04:00:00, spread 260).
+2026-09-25 10:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 10:07:02  --- NAZON auto run end ---
+
+2026-09-25 10:39:03  --- NAZON auto run start ---
+2026-09-25 10:39:14  SCAN XAUUSDm: candle 2026-09-25 04:00:00 already logged — skipped.
+2026-09-25 10:39:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 10:39:14  --- NAZON auto run end ---
+
+2026-09-25 14:06:48  --- NAZON auto run start ---
+2026-09-25 14:07:03  SCAN XAUUSDm: logged not_approved none (candle 2026-09-25 08:00:00, spread 260).
+2026-09-25 14:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 14:07:03  --- NAZON auto run end ---
+
+2026-09-25 14:39:02  --- NAZON auto run start ---
+2026-09-25 14:39:13  SCAN XAUUSDm: candle 2026-09-25 08:00:00 already logged — skipped.
+2026-09-25 14:39:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 14:39:13  --- NAZON auto run end ---
+
+2026-09-25 18:06:48  --- NAZON auto run start ---
+2026-09-25 18:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-09-25 12:00:00, spread 260).
+2026-09-25 18:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 18:07:02  --- NAZON auto run end ---
+
+2026-09-25 18:39:02  --- NAZON auto run start ---
+2026-09-25 18:39:13  SCAN XAUUSDm: candle 2026-09-25 12:00:00 already logged — skipped.
+2026-09-25 18:39:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 18:39:13  --- NAZON auto run end ---
+
+2026-09-25 22:06:47  --- NAZON auto run start ---
+2026-09-25 22:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-09-25 16:00:00, spread 260).
+2026-09-25 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-25 22:07:01  --- NAZON auto run end ---
+
+2026-09-25 22:39:02  --- NAZON auto run start ---
+2026-09-25 22:39:12  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-25 22:39:12  RESOLVE skipped — could not connect to MT5.
+2026-09-25 22:39:12  --- NAZON auto run end ---
+
+2026-09-26 07:24:35  --- NAZON auto run start ---
+2026-09-26 07:25:08  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-26 07:25:08  RESOLVE skipped — could not connect to MT5.
+2026-09-26 07:25:08  --- NAZON auto run end ---
+
+2026-09-26 10:06:47  --- NAZON auto run start ---
+2026-09-26 10:07:02  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-26 10:07:02  RESOLVE skipped — could not connect to MT5.
+2026-09-26 10:07:02  --- NAZON auto run end ---
+
+2026-09-26 11:26:19  --- NAZON auto run start ---
+2026-09-26 11:26:42  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-26 11:26:43  RESOLVE skipped — could not connect to MT5.
+2026-09-26 11:26:43  --- NAZON auto run end ---
+
+2026-09-26 19:32:27  --- NAZON auto run start ---
+2026-09-26 19:40:11  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-26 19:42:29  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-26 19:42:29  --- NAZON auto run end ---
+
+2026-09-26 22:06:48  --- NAZON auto run start ---
+2026-09-26 22:07:04  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-26 22:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-26 22:07:04  --- NAZON auto run end ---
+
+2026-09-26 22:39:03  --- NAZON auto run start ---
+2026-09-26 22:39:14  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-26 22:39:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-26 22:39:14  --- NAZON auto run end ---
+
+2026-09-27 02:06:47  --- NAZON auto run start ---
+2026-09-27 02:07:00  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-27 02:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-27 02:07:00  --- NAZON auto run end ---
+
+2026-09-27 02:39:01  --- NAZON auto run start ---
+2026-09-27 02:39:13  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-27 02:39:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-27 02:39:13  --- NAZON auto run end ---
+
+2026-09-27 10:06:47  --- NAZON auto run start ---
+2026-09-27 10:07:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-27 10:07:01  RESOLVE skipped — could not connect to MT5.
+2026-09-27 10:07:01  --- NAZON auto run end ---
+
+2026-09-27 10:39:03  --- NAZON auto run start ---
+2026-09-27 10:39:13  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-27 10:39:13  RESOLVE skipped — could not connect to MT5.
+2026-09-27 10:39:13  --- NAZON auto run end ---
+
+2026-09-27 21:13:07  --- NAZON auto run start ---
+2026-09-27 21:14:40  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-27 21:14:41  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-27 21:14:41  --- NAZON auto run end ---
+
+2026-09-27 22:06:48  --- NAZON auto run start ---
+2026-09-27 22:06:59  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-27 22:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-27 22:06:59  --- NAZON auto run end ---
+
+2026-09-27 22:39:02  --- NAZON auto run start ---
+2026-09-27 22:39:14  SCAN XAUUSDm: candle 2026-09-25 16:00:00 already logged — skipped.
+2026-09-27 22:39:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-27 22:39:14  --- NAZON auto run end ---
+
+2026-09-28 06:59:07  --- NAZON auto run start ---
+2026-09-28 07:02:49  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-28 07:02:51  RESOLVE skipped — could not connect to MT5.
+2026-09-28 07:02:51  --- NAZON auto run end ---
+
+2026-09-28 10:06:50  --- NAZON auto run start ---
+2026-09-28 10:07:04  SCAN XAUUSDm: logged not_approved none (candle 2026-09-28 04:00:00, spread 240).
+2026-09-28 10:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 10:07:05  --- NAZON auto run end ---
+
+2026-09-28 10:39:01  --- NAZON auto run start ---
+2026-09-28 10:39:15  SCAN XAUUSDm: candle 2026-09-28 04:00:00 already logged — skipped.
+2026-09-28 10:39:15  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 10:39:15  --- NAZON auto run end ---
+
+2026-09-28 14:06:48  --- NAZON auto run start ---
+2026-09-28 14:07:06  SCAN XAUUSDm: logged not_approved none (candle 2026-09-28 08:00:00, spread 240).
+2026-09-28 14:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 14:07:06  --- NAZON auto run end ---
+
+2026-09-28 14:39:02  --- NAZON auto run start ---
+2026-09-28 14:39:13  SCAN XAUUSDm: candle 2026-09-28 08:00:00 already logged — skipped.
+2026-09-28 14:39:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 14:39:13  --- NAZON auto run end ---
+
+2026-09-28 18:06:47  --- NAZON auto run start ---
+2026-09-28 18:07:06  SCAN XAUUSDm: logged approved sell (candle 2026-09-28 12:00:00, spread 240).
+2026-09-28 18:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 18:07:06  --- NAZON auto run end ---
+
+2026-09-28 18:39:01  --- NAZON auto run start ---
+2026-09-28 18:39:14  SCAN XAUUSDm: candle 2026-09-28 12:00:00 already logged — skipped.
+2026-09-28 18:39:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 18:39:14  --- NAZON auto run end ---
+
+2026-09-28 22:06:49  --- NAZON auto run start ---
+2026-09-28 22:07:03  SCAN XAUUSDm: logged approved sell (candle 2026-09-28 16:00:00, spread 240).
+2026-09-28 22:07:04  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 22:07:04  --- NAZON auto run end ---
+
+2026-09-28 22:39:02  --- NAZON auto run start ---
+2026-09-28 22:39:14  SCAN XAUUSDm: candle 2026-09-28 16:00:00 already logged — skipped.
+2026-09-28 22:39:14  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-28 22:39:14  --- NAZON auto run end ---
+
+2026-09-29 02:06:50  --- NAZON auto run start ---
+2026-09-29 02:07:04  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-29 02:07:04  RESOLVE skipped — could not connect to MT5.
+2026-09-29 02:07:04  --- NAZON auto run end ---
+
+2026-09-29 02:39:03  --- NAZON auto run start ---
+2026-09-29 02:39:20  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-29 02:39:20  RESOLVE skipped — could not connect to MT5.
+2026-09-29 02:39:20  --- NAZON auto run end ---
+
+2026-09-29 06:06:52  --- NAZON auto run start ---
+2026-09-29 06:07:08  SCAN XAUUSDm: logged approved sell (candle 2026-09-29 00:00:00, spread 240).
+2026-09-29 06:07:09  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 06:07:09  --- NAZON auto run end ---
+
+2026-09-29 06:39:02  --- NAZON auto run start ---
+2026-09-29 06:39:13  SCAN XAUUSDm: candle 2026-09-29 00:00:00 already logged — skipped.
+2026-09-29 06:39:13  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 06:39:13  --- NAZON auto run end ---
+
+2026-09-29 14:26:09  --- NAZON auto run start ---
+2026-09-29 14:27:23  SCAN XAUUSDm: logged approved sell (candle 2026-09-29 08:00:00, spread 240).
+2026-09-29 14:27:24  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 14:27:24  --- NAZON auto run end ---
+
+2026-09-29 16:00:03  --- NAZON auto run start ---
+2026-09-29 16:01:09  SCAN XAUUSDm: candle 2026-09-29 08:00:00 already logged — skipped.
+2026-09-29 16:01:10  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 16:01:10  --- NAZON auto run end ---
+
+2026-09-29 18:06:48  --- NAZON auto run start ---
+2026-09-29 18:07:02  SCAN XAUUSDm: logged approved sell (candle 2026-09-29 12:00:00, spread 240).
+2026-09-29 18:07:02  RESOLVE: scored 1 newly-closed signal(s).
+2026-09-29 18:07:02  --- NAZON auto run end ---
+
+2026-09-29 18:23:33  --- NAZON auto run start ---
+2026-09-29 18:23:43  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-29 18:23:43  RESOLVE skipped — could not connect to MT5.
+2026-09-29 18:23:43  --- NAZON auto run end ---
+
+2026-09-29 18:40:14  --- NAZON auto run start ---
+2026-09-29 18:41:01  SCAN XAUUSDm: candle 2026-09-29 12:00:00 already logged — skipped.
+2026-09-29 18:41:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 18:41:01  --- NAZON auto run end ---
+
+2026-09-29 22:06:51  --- NAZON auto run start ---
+2026-09-29 22:07:26  SCAN XAUUSDm: logged approved sell (candle 2026-09-29 16:00:00, spread 240).
+2026-09-29 22:07:26  RESOLVE: scored 1 newly-closed signal(s).
+2026-09-29 22:07:26  --- NAZON auto run end ---
+
+2026-09-29 22:23:35  --- NAZON auto run start ---
+2026-09-29 22:24:00  SCAN XAUUSDm: candle 2026-09-29 16:00:00 already logged — skipped.
+2026-09-29 22:24:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 22:24:01  --- NAZON auto run end ---
+
+2026-09-29 22:39:02  --- NAZON auto run start ---
+2026-09-29 22:39:16  SCAN XAUUSDm: candle 2026-09-29 16:00:00 already logged — skipped.
+2026-09-29 22:39:16  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-29 22:39:16  --- NAZON auto run end ---
+
+2026-09-30 02:06:48  --- NAZON auto run start ---
+2026-09-30 02:07:02  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-30 02:07:03  RESOLVE skipped — could not connect to MT5.
+2026-09-30 02:07:03  --- NAZON auto run end ---
+
+2026-09-30 02:23:33  --- NAZON auto run start ---
+2026-09-30 02:23:43  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-30 02:23:43  RESOLVE skipped — could not connect to MT5.
+2026-09-30 02:23:43  --- NAZON auto run end ---
+
+2026-09-30 02:39:01  --- NAZON auto run start ---
+2026-09-30 02:39:11  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-09-30 02:39:11  RESOLVE skipped — could not connect to MT5.
+2026-09-30 02:39:11  --- NAZON auto run end ---
+
+2026-09-30 06:06:49  --- NAZON auto run start ---
+2026-09-30 06:07:07  SCAN XAUUSDm: logged approved sell (candle 2026-09-30 00:00:00, spread 240).
+2026-09-30 06:07:08  RESOLVE: scored 1 newly-closed signal(s).
+2026-09-30 06:07:08  --- NAZON auto run end ---
+
+2026-09-30 06:23:34  --- NAZON auto run start ---
+2026-09-30 06:23:44  SCAN XAUUSDm: candle 2026-09-30 00:00:00 already logged — skipped.
+2026-09-30 06:23:44  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-30 06:23:44  --- NAZON auto run end ---
+
+2026-09-30 06:39:01  --- NAZON auto run start ---
+2026-09-30 06:39:11  SCAN XAUUSDm: candle 2026-09-30 00:00:00 already logged — skipped.
+2026-09-30 06:39:11  RESOLVE: scored 0 newly-closed signal(s).
+2026-09-30 06:39:11  --- NAZON auto run end ---
+
+2026-10-02 01:53:02  --- NAZON auto run start ---
+2026-10-02 01:53:35  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 01:53:35  RESOLVE skipped — could not connect to MT5.
+2026-10-02 01:53:35  --- NAZON auto run end ---
+
+2026-10-02 02:06:45  --- NAZON auto run start ---
+2026-10-02 02:06:46  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 02:06:46  RESOLVE skipped — could not connect to MT5.
+2026-10-02 02:06:46  --- NAZON auto run end ---
+
+2026-10-02 02:23:33  --- NAZON auto run start ---
+2026-10-02 02:23:34  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 02:23:34  RESOLVE skipped — could not connect to MT5.
+2026-10-02 02:23:34  --- NAZON auto run end ---
+
+2026-10-02 02:39:01  --- NAZON auto run start ---
+2026-10-02 02:39:02  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 02:39:02  RESOLVE skipped — could not connect to MT5.
+2026-10-02 02:39:02  --- NAZON auto run end ---
+
+2026-10-02 06:06:45  --- NAZON auto run start ---
+2026-10-02 06:08:28  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 06:11:13  RESOLVE skipped — could not connect to MT5.
+2026-10-02 06:11:13  --- NAZON auto run end ---
+
+2026-10-02 06:23:32  --- NAZON auto run start ---
+2026-10-02 06:25:45  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 06:27:58  RESOLVE skipped — could not connect to MT5.
+2026-10-02 06:27:58  --- NAZON auto run end ---
+
+2026-10-02 06:39:00  --- NAZON auto run start ---
+2026-10-02 06:41:14  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 06:43:26  RESOLVE skipped — could not connect to MT5.
+2026-10-02 06:43:26  --- NAZON auto run end ---
+
+2026-10-02 10:06:46  --- NAZON auto run start ---
+2026-10-02 10:09:00  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 10:11:13  RESOLVE skipped — could not connect to MT5.
+2026-10-02 10:11:13  --- NAZON auto run end ---
+
+2026-10-02 10:23:32  --- NAZON auto run start ---
+2026-10-02 10:25:46  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 10:27:59  RESOLVE skipped — could not connect to MT5.
+2026-10-02 10:27:59  --- NAZON auto run end ---
+
+2026-10-02 10:39:00  --- NAZON auto run start ---
+2026-10-02 10:41:14  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 10:43:27  RESOLVE skipped — could not connect to MT5.
+2026-10-02 10:43:27  --- NAZON auto run end ---
+
+2026-10-02 14:06:45  --- NAZON auto run start ---
+2026-10-02 14:09:01  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 14:11:14  RESOLVE skipped — could not connect to MT5.
+2026-10-02 14:11:14  --- NAZON auto run end ---
+
+2026-10-02 14:23:32  --- NAZON auto run start ---
+2026-10-02 14:25:46  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 14:27:59  RESOLVE skipped — could not connect to MT5.
+2026-10-02 14:27:59  --- NAZON auto run end ---
+
+2026-10-02 14:39:00  --- NAZON auto run start ---
+2026-10-02 14:41:14  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 14:43:26  RESOLVE skipped — could not connect to MT5.
+2026-10-02 14:43:26  --- NAZON auto run end ---
+
+2026-10-02 18:09:07  --- NAZON auto run start ---
+2026-10-02 20:18:01  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 20:20:18  RESOLVE skipped — could not connect to MT5.
+2026-10-02 20:20:18  --- NAZON auto run end ---
+
+2026-10-02 22:06:46  --- NAZON auto run start ---
+2026-10-02 22:09:05  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 22:11:18  RESOLVE skipped — could not connect to MT5.
+2026-10-02 22:11:18  --- NAZON auto run end ---
+
+2026-10-02 22:23:32  --- NAZON auto run start ---
+2026-10-02 22:25:47  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 22:28:00  RESOLVE skipped — could not connect to MT5.
+2026-10-02 22:28:00  --- NAZON auto run end ---
+
+2026-10-02 22:39:00  --- NAZON auto run start ---
+2026-10-02 22:41:14  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-02 22:43:27  RESOLVE skipped — could not connect to MT5.
+2026-10-02 22:43:27  --- NAZON auto run end ---
+
+2026-10-03 04:43:39  --- NAZON auto run start ---
+2026-10-03 09:42:50  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-03 10:06:52  --- NAZON auto run start ---
+2026-10-03 10:11:08  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-03 10:13:19  RESOLVE skipped — could not connect to MT5.
+2026-10-03 10:13:19  --- NAZON auto run end ---
+
+2026-10-03 14:06:47  --- NAZON auto run start ---
+2026-10-03 14:09:17  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-03 14:11:28  RESOLVE skipped — could not connect to MT5.
+2026-10-03 14:11:28  --- NAZON auto run end ---
+
+2026-10-03 18:06:47  --- NAZON auto run start ---
+2026-10-03 18:09:08  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-03 18:11:19  RESOLVE skipped — could not connect to MT5.
+2026-10-03 18:11:19  --- NAZON auto run end ---
+
+2026-10-04 02:51:23  --- NAZON auto run start ---
+2026-10-04 02:54:29  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-04 02:56:40  RESOLVE skipped — could not connect to MT5.
+2026-10-04 02:56:40  --- NAZON auto run end ---
+
+2026-10-04 06:06:48  --- NAZON auto run start ---
+2026-10-04 06:07:18  SCAN XAUUSDm: logged not_approved none (candle 2026-10-02 16:00:00, spread 260).
+2026-10-04 06:07:18  RESOLVE: scored 4 newly-closed signal(s).
+2026-10-04 06:07:18  --- NAZON auto run end ---
+
+2026-10-04 10:06:47  --- NAZON auto run start ---
+2026-10-04 10:07:02  SCAN XAUUSDm: candle 2026-10-02 16:00:00 already logged — skipped.
+2026-10-04 10:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-04 10:07:02  --- NAZON auto run end ---
+
+2026-10-04 14:06:48  --- NAZON auto run start ---
+2026-10-04 14:07:03  SCAN XAUUSDm: candle 2026-10-02 16:00:00 already logged — skipped.
+2026-10-04 14:07:03  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-04 14:07:03  --- NAZON auto run end ---
+
+2026-10-04 18:06:48  --- NAZON auto run start ---
+2026-10-04 18:07:01  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-04 18:07:02  RESOLVE skipped — could not connect to MT5.
+2026-10-04 18:07:02  --- NAZON auto run end ---
+
+2026-10-04 23:42:53  --- NAZON auto run start ---
+2026-10-04 23:43:43  SCAN XAUUSDm: candle 2026-10-02 16:00:00 already logged — skipped.
+2026-10-04 23:43:43  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-04 23:43:43  --- NAZON auto run end ---
+
+2026-10-05 02:06:48  --- NAZON auto run start ---
+2026-10-05 02:07:00  SCAN XAUUSDm: logged not_approved none (candle 2026-10-04 20:00:00, spread 240).
+2026-10-05 02:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-05 02:07:01  --- NAZON auto run end ---
+
+2026-10-05 06:06:47  --- NAZON auto run start ---
+2026-10-05 06:07:02  SCAN XAUUSDm: logged not_approved none (candle 2026-10-05 00:00:00, spread 240).
+2026-10-05 06:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-05 06:07:02  --- NAZON auto run end ---
+
+2026-10-05 10:40:57  --- NAZON auto run start ---
+2026-10-05 10:41:14  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-05 10:41:14  RESOLVE skipped — could not connect to MT5.
+2026-10-05 10:41:14  --- NAZON auto run end ---
+
+2026-10-05 14:48:49  --- NAZON auto run start ---
+2026-10-05 14:49:19  SCAN XAUUSDm: logged not_approved none (candle 2026-10-05 08:00:00, spread 240).
+2026-10-05 14:49:19  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-05 14:49:19  --- NAZON auto run end ---
+
+2026-10-05 18:13:39  --- NAZON auto run start ---
+2026-10-05 18:15:16  SCAN XAUUSDm: logged approved sell (candle 2026-10-05 12:00:00, spread 240).
+2026-10-05 18:15:16  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-05 18:15:16  --- NAZON auto run end ---
+
+2026-10-05 22:06:49  --- NAZON auto run start ---
+2026-10-05 22:07:02  SCAN XAUUSDm: logged approved sell (candle 2026-10-05 16:00:00, spread 240).
+2026-10-05 22:07:02  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-05 22:07:02  --- NAZON auto run end ---
+
+2026-10-06 02:06:47  --- NAZON auto run start ---
+2026-10-06 02:07:00  SCAN XAUUSDm: logged approved sell (candle 2026-10-05 20:00:00, spread 240).
+2026-10-06 02:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-06 02:07:01  --- NAZON auto run end ---
+
+2026-10-06 06:06:46  --- NAZON auto run start ---
+2026-10-06 06:06:58  SCAN XAUUSDm: logged approved sell (candle 2026-10-06 00:00:00, spread 240).
+2026-10-06 06:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-06 06:06:58  --- NAZON auto run end ---
+
+2026-10-06 10:06:48  --- NAZON auto run start ---
+2026-10-06 10:07:00  SCAN XAUUSDm: logged approved sell (candle 2026-10-06 04:00:00, spread 240).
+2026-10-06 10:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-06 10:07:00  --- NAZON auto run end ---
+
+2026-10-06 14:06:49  --- NAZON auto run start ---
+2026-10-06 14:07:19  SCAN XAUUSDm: logged approved sell (candle 2026-10-06 08:00:00, spread 240).
+2026-10-06 14:07:19  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-06 14:07:19  --- NAZON auto run end ---
+
+2026-10-06 18:10:37  --- NAZON auto run start ---
+2026-10-06 18:14:22  SCAN XAUUSDm: candle 2026-10-05 20:00:00 already logged — skipped.
+2026-10-06 18:14:22  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-06 18:14:22  --- NAZON auto run end ---
+
+2026-10-07 07:04:18  --- NAZON auto run start ---
+2026-10-07 07:08:36  SCAN XAUUSDm: logged approved sell (candle 2026-10-07 00:00:00, spread 240).
+2026-10-07 07:08:38  RESOLVE: scored 2 newly-closed signal(s).
+2026-10-07 07:08:38  --- NAZON auto run end ---
+
+2026-10-07 11:12:19  --- NAZON auto run start ---
+2026-10-07 11:12:55  SCAN XAUUSDm: logged approved sell (candle 2026-10-07 04:00:00, spread 240).
+2026-10-07 11:12:56  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-07 11:12:56  --- NAZON auto run end ---
+
+2026-10-07 16:54:02  --- NAZON auto run start ---
+2026-10-07 16:54:41  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-07 16:54:42  RESOLVE skipped — could not connect to MT5.
+2026-10-07 16:54:42  --- NAZON auto run end ---
+
+2026-10-07 18:17:45  --- NAZON auto run start ---
+2026-10-07 18:18:27  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-07 18:18:28  RESOLVE skipped — could not connect to MT5.
+2026-10-07 18:18:28  --- NAZON auto run end ---
+
+2026-10-07 22:06:47  --- NAZON auto run start ---
+2026-10-07 22:07:00  SCAN XAUUSDm: logged approved sell (candle 2026-10-07 16:00:00, spread 240).
+2026-10-07 22:07:00  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-07 22:07:00  --- NAZON auto run end ---
+
+2026-10-08 02:06:46  --- NAZON auto run start ---
+2026-10-08 02:06:58  SCAN XAUUSDm: logged approved sell (candle 2026-10-07 20:00:00, spread 240).
+2026-10-08 02:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-08 02:06:59  --- NAZON auto run end ---
+
+2026-10-08 06:06:45  --- NAZON auto run start ---
+2026-10-08 06:06:48  SCAN XAUUSDm: logged approved sell (candle 2026-10-08 00:00:00, spread 240).
+2026-10-08 06:06:48  RESOLVE: scored 3 newly-closed signal(s).
+2026-10-08 06:06:48  --- NAZON auto run end ---
+
+2026-10-08 15:32:39  --- NAZON auto run start ---
+2026-10-08 15:35:05  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-08 15:35:06  RESOLVE skipped — could not connect to MT5.
+2026-10-08 15:35:06  --- NAZON auto run end ---
+
+2026-10-08 18:06:45  --- NAZON auto run start ---
+2026-10-08 18:06:47  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-08 18:06:47  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-08 18:06:47  --- NAZON auto run end ---
+
+2026-10-08 22:06:49  --- NAZON auto run start ---
+2026-10-08 22:07:00  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-08 22:07:00  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-08 22:07:00  --- NAZON auto run end ---
+
+2026-10-09 02:06:46  --- NAZON auto run start ---
+2026-10-09 02:06:53  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-09 02:06:54  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-09 02:06:54  --- NAZON auto run end ---
+
+2026-10-09 06:21:20  --- NAZON auto run start ---
+2026-10-09 06:22:21  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-09 06:22:22  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-09 06:22:22  --- NAZON auto run end ---
+
+2026-10-09 10:06:46  --- NAZON auto run start ---
+2026-10-09 10:06:54  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-09 10:06:55  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-09 10:06:55  --- NAZON auto run end ---
+
+2026-10-10 20:43:59  --- NAZON auto run start ---
+2026-10-10 20:45:53  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-10 20:45:54  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-10 20:45:54  --- NAZON auto run end ---
+
+2026-10-13 10:54:55  --- NAZON auto run start ---
+2026-10-13 10:55:37  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 10:55:40  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 10:55:40  --- NAZON auto run end ---
+
+2026-10-13 14:06:47  --- NAZON auto run start ---
+2026-10-13 14:07:00  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 14:07:00  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 14:07:00  --- NAZON auto run end ---
+
+2026-10-13 18:06:45  --- NAZON auto run start ---
+2026-10-13 18:07:32  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 18:07:32  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 18:07:32  --- NAZON auto run end ---
+
+2026-10-13 22:06:46  --- NAZON auto run start ---
+2026-10-13 22:06:56  SCAN ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 102, in <module>
+    run_scan()
+    ~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 33, in run_scan
+    from nazon.core.signal_engine import analyse
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 22:06:56  RESOLVE ERROR:
+Traceback (most recent call last):
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 106, in <module>
+    run_resolve()
+    ~~~~~~~~~~~^^
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon_auto.py", line 85, in run_resolve
+    from nazon.journal.outcome_resolver import resolve_open_signals
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\journal\outcome_resolver.py", line 14, in <module>
+    from nazon.core.signal_engine import TP_MULTIPLES
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\signal_engine.py", line 30, in <module>
+    from nazon.core import indicators as ind
+  File "C:\Users\TRUEMAX KATEMA\Desktop\NAZON\nazon\core\indicators.py", line 1, in <module>
+    def ema_cross_state(series: pd.Series, fast: int = 20, slow: int = 50) -> str:
+                                ^^
+NameError: name 'pd' is not defined. Did you mean: 'id'?
+
+2026-10-13 22:06:56  --- NAZON auto run end ---
+
+2026-10-14 06:06:46  --- NAZON auto run start ---
+2026-10-14 06:07:23  SCAN XAUUSDm: logged not_approved none (candle 2026-10-14 00:00:00, spread 240).
+2026-10-14 06:07:24  RESOLVE: scored 6 newly-closed signal(s).
+2026-10-14 06:07:24  --- NAZON auto run end ---
+
+2026-10-14 10:06:48  --- NAZON auto run start ---
+2026-10-14 10:06:58  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-14 10:06:58  RESOLVE skipped — could not connect to MT5.
+2026-10-14 10:06:58  --- NAZON auto run end ---
+
+2026-10-14 20:10:27  --- NAZON auto run start ---
+2026-10-14 20:11:28  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-14 20:11:32  RESOLVE skipped — could not connect to MT5.
+2026-10-14 20:11:32  --- NAZON auto run end ---
+
+2026-10-14 22:06:47  --- NAZON auto run start ---
+2026-10-14 22:07:01  SCAN XAUUSDm: logged not_approved none (candle 2026-10-14 16:00:00, spread 240).
+2026-10-14 22:07:01  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-14 22:07:01  --- NAZON auto run end ---
+
+2026-10-15 02:06:45  --- NAZON auto run start ---
+2026-10-15 02:06:47  SCAN XAUUSDm: logged not_approved none (candle 2026-10-14 20:00:00, spread 240).
+2026-10-15 02:06:47  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-15 02:06:47  --- NAZON auto run end ---
+
+2026-10-15 08:14:48  --- NAZON auto run start ---
+2026-10-15 08:15:15  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-15 08:15:24  RESOLVE skipped — could not connect to MT5.
+2026-10-15 08:15:24  --- NAZON auto run end ---
+
+2026-10-15 10:06:46  --- NAZON auto run start ---
+2026-10-15 10:06:47  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-15 10:06:47  RESOLVE skipped — could not connect to MT5.
+2026-10-15 10:06:47  --- NAZON auto run end ---
+
+2026-10-15 14:06:45  --- NAZON auto run start ---
+2026-10-15 14:06:47  SCAN XAUUSDm: logged not_approved none (candle 2026-10-15 08:00:00, spread 240).
+2026-10-15 14:06:47  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-15 14:06:47  --- NAZON auto run end ---
+
+2026-10-15 18:06:45  --- NAZON auto run start ---
+2026-10-15 22:06:47  --- NAZON auto run start ---
+2026-10-15 22:06:59  SCAN XAUUSDm: logged not_approved none (candle 2026-10-15 16:00:00, spread 240).
+2026-10-15 22:06:59  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-15 22:06:59  --- NAZON auto run end ---
+
+2026-10-16 02:06:46  --- NAZON auto run start ---
+2026-10-16 02:06:57  SCAN XAUUSDm: logged not_approved none (candle 2026-10-15 20:00:00, spread 240).
+2026-10-16 02:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-16 02:06:57  --- NAZON auto run end ---
+
+2026-10-17 21:04:23  --- NAZON auto run start ---
+2026-10-17 21:08:06  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-17 21:08:07  RESOLVE skipped — could not connect to MT5.
+2026-10-17 21:08:07  --- NAZON auto run end ---
+
+2026-10-17 22:06:46  --- NAZON auto run start ---
+2026-10-17 22:06:56  SCAN XAUUSDm: logged not_approved none (candle 2026-10-16 16:00:00, spread 260).
+2026-10-17 22:06:57  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-17 22:06:57  --- NAZON auto run end ---
+
+2026-10-18 10:07:07  --- NAZON auto run start ---
+2026-10-18 10:10:27  SCAN XAUUSDm: candle 2026-10-16 16:00:00 already logged — skipped.
+2026-10-18 10:10:28  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-18 10:10:28  --- NAZON auto run end ---
+
+2026-10-18 14:06:44  --- NAZON auto run start ---
+2026-10-18 14:07:05  SCAN XAUUSDm: candle 2026-10-16 16:00:00 already logged — skipped.
+2026-10-18 14:07:05  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-18 14:07:05  --- NAZON auto run end ---
+
+2026-10-18 21:27:54  --- NAZON auto run start ---
+2026-10-18 21:31:04  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-18 21:33:18  RESOLVE skipped — could not connect to MT5.
+2026-10-18 21:33:18  --- NAZON auto run end ---
+
+2026-10-18 22:06:45  --- NAZON auto run start ---
+2026-10-18 22:07:06  SCAN XAUUSDm: candle 2026-10-16 16:00:00 already logged — skipped.
+2026-10-18 22:07:06  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-18 22:07:06  --- NAZON auto run end ---
+
+2026-10-19 02:06:45  --- NAZON auto run start ---
+2026-10-19 02:06:52  SCAN XAUUSDm: logged not_approved none (candle 2026-10-18 20:00:00, spread 240).
+2026-10-19 02:06:52  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-19 02:06:52  --- NAZON auto run end ---
+
+2026-10-19 08:57:44  --- NAZON auto run start ---
+2026-10-19 10:59:37  SCAN skipped — could not connect to MT5 (terminal closed?).
+2026-10-19 11:01:20  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-19 11:01:20  --- NAZON auto run end ---
+
+2026-10-19 14:06:45  --- NAZON auto run start ---
+2026-10-19 14:06:58  SCAN XAUUSDm: logged not_approved none (candle 2026-10-19 08:00:00, spread 240).
+2026-10-19 14:06:58  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-19 14:06:58  --- NAZON auto run end ---
+
+2026-10-19 20:40:28  --- NAZON auto run start ---
+2026-10-19 20:45:43  SCAN XAUUSDm: logged not_approved none (candle 2026-10-19 12:00:00, spread 240).
+2026-10-19 20:45:43  RESOLVE: scored 0 newly-closed signal(s).
+2026-10-19 20:45:43  --- NAZON auto run end ---
+
