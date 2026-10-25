@@ -1,0 +1,2 @@
+timestamp,symbol,direction,confidence,entry,stop,tp1,tp2,tp3,lots,outcome,exit_price,r_multiple,notes
+2026-10-25T12:34:54,XAUUSDm,sell,70,3996.057,4042.51864,3926.36453,3879.90289,3810.21042,0.02,WIN,3926.36,1.5,Hit TP1
